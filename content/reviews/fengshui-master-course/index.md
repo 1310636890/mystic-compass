@@ -7,22 +7,23 @@ layout: "review"
 slug: "fengshui-master-course"
 platform_name: "Feng Shui Master Consultant Course"
 ---
-## Our Verdict
+## The Bottom Line
 
-**Feng Shui Master Consultant Course scores 7.5/10** — a solid option for courses in the Feng Shui niche. With a **20% commission rate** and **30-day cookie window**, it's a decent affiliate opportunity.
+Feng Shui Master Consultant Course is the budget option in a niche where courses routinely cost $1,000+. At $200-1,500, it's the most accessible way for someone to test whether they actually want to learn Feng Shui professionally — before dropping $5,000 on a Joey Yap certification.
 
-Feng Shui Master Course offers a structured certification pathway with 4 levels of training. The 20% commission on high-ticket courses ($200-$2000) means significant earnings per sale, though the niche audience requires targeted marketing.
+7.5/10 rating reflects the tradeoff: lower price, less brand recognition, no live instruction. But for the right audience (self-motivated learners on a budget), it's a solid entry point.
 
-## At a Glance
+## The Course Structure
 
-| Feature | Value |
-|:--------|:------|
-| Founded | 2010 |
-| Headquarters | United States |
-| Languages | English |
-| Products | 5 product lines |
-| Affiliate | In-house |
+Self-paced online modules covering Feng Shui fundamentals and consulting basics. No live sessions. No community access. No certification with industry recognition. If someone needs hand-holding, this isn't for them. If they're disciplined enough to learn from recorded content, the value is there.
 
-> *Full rating breakdown, pros & cons, and affiliate details are rendered by the template from `data/fengshui_platforms.yaml`.*
+## The Affiliate Program
+
+In-house. 20% commission. Manual approval. 30-day cookie. $100 minimum payout — which is high relative to the low course prices ($200 course × 20% = $40, so you need 3 sales to hit payout).
+
+## Who It's For
+
+**✅ Best for:** "Best cheap Feng Shui courses" content, budget-conscious learners, first-time course buyers
+**❌ Skip for:** Audiences wanting certification, learners who need live instruction, affiliates wanting fast payouts
 
 *Last updated: 2026-05-26*

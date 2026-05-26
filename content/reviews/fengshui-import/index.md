@@ -7,22 +7,15 @@ layout: "review"
 slug: "fengshui-import"
 platform_name: "Feng Shui Import"
 ---
-## Our Verdict
+## The Bottom Line
 
-**Feng Shui Import scores 7.3/10** — worth considering for products in the Feng Shui niche. With a **10% commission rate** and **30-day cookie window**, it's a decent affiliate opportunity.
+Feng Shui Import targets a different audience — wholesalers and retailers, not individual consumers. If you're building B2B content (dropshipping, retail sourcing, wholesale Feng Shui supplies), this is your platform. For consumer content, skip it.
 
-Feng Shui Import is one of the oldest direct importers (since 1998) with authentic products and drop-ship programs. However, the dated ZenCart website and low 10% commission make it less attractive for affiliates compared to competitors.
+10% commission. 30-day cookie. ZenCart-based affiliate system. The bulk pricing means average orders are higher ($200-500 vs $80 for consumer stores), so the low percentage can still produce decent per-sale earnings.
 
-## At a Glance
+## Who It's For
 
-| Feature | Value |
-|:--------|:------|
-| Founded | 1998 |
-| Headquarters | San Diego, California |
-| Languages | English |
-| Products | 10 product lines |
-| Affiliate | In-house (ZenCart) |
-
-> *Full rating breakdown, pros & cons, and affiliate details are rendered by the template from `data/fengshui_platforms.yaml`.*
+**✅ Best for:** B2B content, dropshipping guides, wholesale sourcing articles
+**❌ Skip for:** Consumer-focused sites, visual/Pinterest content, small-ticket recommendations
 
 *Last updated: 2026-05-26*

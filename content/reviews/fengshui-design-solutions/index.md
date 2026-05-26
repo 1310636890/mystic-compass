@@ -7,22 +7,15 @@ layout: "review"
 slug: "fengshui-design-solutions"
 platform_name: "Feng Shui Design Solutions"
 ---
-## Our Verdict
+## The Bottom Line
 
-**Feng Shui Design Solutions scores 7.0/10** — worth considering for products in the Feng Shui niche. With a **10% commission rate** and **30-day cookie window**, it's a decent affiliate opportunity.
+Feng Shui Design Solutions is the smallest platform in this directory — 50 products, 10% commission, 30-day cookie. What makes it interesting is the consultation add-on: they pair product sales with design advice, which increases average order value and gives you something unique to promote.
 
-Feng Shui Design Solutions offers accessible online consulting at affordable rates. The 10% commission is low, but the low-cost consultations mean easier conversions for the right audience. Best as a secondary recommendation.
+For most affiliates, this should be a supplemental recommendation, not a primary one. The commission is too low and the catalog too small to build content around. But if you're writing about "Feng Shui bedroom design" and want to recommend a store that combines products with consulting, this fills that niche.
 
-## At a Glance
+## Who It's For
 
-| Feature | Value |
-|:--------|:------|
-| Founded | 2005 |
-| Headquarters | Banning, California |
-| Languages | English |
-| Products | 5 product lines |
-| Affiliate | In-house |
-
-> *Full rating breakdown, pros & cons, and affiliate details are rendered by the template from `data/fengshui_platforms.yaml`.*
+**✅ Best for:** "Design + product" combo content, supplemental recommendation alongside larger stores
+**❌ Skip for:** Standalone product reviews, affiliates needing volume or high commission rates
 
 *Last updated: 2026-05-26*

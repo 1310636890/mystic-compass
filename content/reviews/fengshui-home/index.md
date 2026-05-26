@@ -7,22 +7,15 @@ layout: "review"
 slug: "fengshui-home"
 platform_name: "Feng Shui Home"
 ---
-## Our Verdict
+## The Bottom Line
 
-**Feng Shui Home scores 7.0/10** — worth considering for products in the Feng Shui niche. With a **12% commission rate** and **30-day cookie window**, it's a decent affiliate opportunity.
+Feng Shui Home runs through ShareASale, which means if you're already on ShareASale for other programs, adding this one takes 30 seconds. 12% commission. 30-day cookie. $50 minimum.
 
-Feng Shui Home targets the mainstream home decor market with a Feng Shui angle. The ShareASale network makes tracking easy, but the generic branding and limited authority in the Feng Shui niche limit its potential for serious affiliates.
+The catalog (100+ items) focuses on home decor with Feng Shui themes — not traditional ritual tools. More "feng shui inspired wall art" than "authentic Bagua mirror." If your audience is home decor enthusiasts dipping into Feng Shui aesthetics, this works. If they want authentic traditional items, point them to Feng Shui World instead.
 
-## At a Glance
+## Who It's For
 
-| Feature | Value |
-|:--------|:------|
-| Founded | 2010 |
-| Headquarters | United States |
-| Languages | English |
-| Products | 6 product lines |
-| Affiliate | ShareASale |
-
-> *Full rating breakdown, pros & cons, and affiliate details are rendered by the template from `data/fengshui_platforms.yaml`.*
+**✅ Best for:** ShareASale affiliates, home decor content, "Feng Shui inspired" products
+**❌ Skip for:** Authentic traditional Feng Shui tools, max commission chasers, international audiences
 
 *Last updated: 2026-05-26*

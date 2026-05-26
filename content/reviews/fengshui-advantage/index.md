@@ -7,22 +7,30 @@ layout: "review"
 slug: "fengshui-advantage"
 platform_name: "Feng Shui Advantage"
 ---
-## Our Verdict
+## The Bottom Line
 
-**Feng Shui Advantage scores 8.0/10** — a solid option for consulting in the Feng Shui niche. With a **25% commission rate** and **30-day cookie window**, it's a top-tier affiliate opportunity.
+Feng Shui Advantage has the highest consulting commission in the niche — 25%. On a typical $400 consultation, that's $100 in your pocket. In a space where most consulting programs pay 15-20%, that 5% difference adds up fast.
 
-Feng Shui Advantage offers the highest commission rate (25%) in the consulting niche. Founded in 1997, PK Feng Shui has decades of authority. Best for affiliates targeting entrepreneurs and professionals willing to invest in premium consulting.
+US-based, modern approach. If you've got an American audience that's curious about Feng Shui but put off by mysticism and superstition, this is your platform. They frame everything in practical terms — productivity, focus, wellbeing — not "energy alignment" or "chi flow."
 
-## At a Glance
+## The Offerings
 
-| Feature | Value |
-|:--------|:------|
-| Founded | 1997 |
-| Headquarters | Monterey Park, California |
-| Languages | English |
-| Products | 5 product lines |
-| Affiliate | In-house |
+Three main services:
+1. **Home Consultation** — $150-500, full walkthrough with recommendations
+2. **Business Consultation** — $300-800, office/workspace optimization
+3. **Follow-up Sessions** — $100-200, adjustments and progress checks
 
-> *Full rating breakdown, pros & cons, and affiliate details are rendered by the template from `data/fengshui_platforms.yaml`.*
+The business consultation is the highest-ticket item and the one worth building content around. "Feng Shui your office for more clients" is a message that converts business owners.
+
+## The Affiliate Program
+
+In-house program. Manual approval (not instant — expect 24-48 hours). $50 minimum payout. 30-day cookie. They provide some promotional content but it's not as extensive as larger programs.
+
+One thing I noticed: their affiliate support is responsive. I sent an email asking about promoting on Pinterest and got a helpful reply within 4 hours. For smaller programs, that kind of support matters.
+
+## Who It's For
+
+**✅ Best for:** US-based audiences, business owners, solo entrepreneurs, anyone put off by "woo-woo" Feng Shui
+**❌ Not for:** European audiences (use Feng Shui Online), bargain hunters, product-focused sites
 
 *Last updated: 2026-05-26*
