@@ -34,6 +34,14 @@ menus:
     name: Guides
     url: /guide/
     weight: 4
+  - identifier: tools
+    name: TOOLS
+    url: /tools/
+    weight: 5
+  - identifier: affiliate
+    name: Affiliate
+    url: /affiliate-programs/
+    weight: 6
 outputs:
   home:
   - HTML

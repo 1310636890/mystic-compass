@@ -1,0 +1,34 @@
+{{ define "title" }}{{ .Title }}{{ end }}
+{{ define "main" }}
+<article class="tool-page">
+  <div class="container-narrow">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> &rsaquo; <a href="/tools/">Tools</a> &rsaquo; {{ .Title }}
+    </nav>
+    <h1>{{ .Title }}</h1>
+    <div class="post-meta">
+      Free Feng Shui Tool · {{ .Date.Format "January 2, 2006" }}
+    </div>
+    {{ .Content }}
+
+    <!-- Conversion Hook -->
+    <section class="conversion-hook" style="margin-top:3rem;padding:2rem;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);border-radius:12px;border:1px solid rgba(212,175,55,0.3);text-align:center">
+      <h2 style="color:#d4af37;margin-bottom:1rem;font-size:1.5rem">📋 Want to apply your results?</h2>
+      <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center">
+        <a href="/reviews/fengshui-world/" style="flex:1;min-width:200px;padding:1rem;background:rgba(212,175,55,0.1);border:1px solid rgba(212,175,55,0.4);border-radius:8px;color:#d4af37;text-decoration:none;transition:all .2s">
+          <strong>🛒 Feng Shui Products</strong><br>
+          <small style="color:#ccc">35% commission — highest in niche</small>
+        </a>
+        <a href="/best/feng-shui-courses-beginners/" style="flex:1;min-width:200px;padding:1rem;background:rgba(212,175,55,0.1);border:1px solid rgba(212,175,55,0.4);border-radius:8px;color:#d4af37;text-decoration:none;transition:all .2s">
+          <strong>📚 Learn Feng Shui</strong><br>
+          <small style="color:#ccc">Best courses for beginners in 2026</small>
+        </a>
+        <a href="/tools/" style="flex:1;min-width:200px;padding:1rem;background:rgba(212,175,55,0.1);border:1px solid rgba(212,175,55,0.4);border-radius:8px;color:#d4af37;text-decoration:none;transition:all .2s">
+          <strong>🔮 More Free Tools</strong><br>
+          <small style="color:#ccc">Bagua Map, Flying Star &amp; more</small>
+        </a>
+      </div>
+    </section>
+  </div>
+</article>
+{{ end }}
