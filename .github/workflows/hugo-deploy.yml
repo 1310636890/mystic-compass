@@ -23,6 +23,9 @@ jobs:
       - name: Build
         run: hugo --minify --baseURL "https://1310636890.github.io/mystic-compass/"
 
+      - name: Disable Jekyll
+        run: touch public/.nojekyll
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -30,4 +33,3 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
-          cname: ""
