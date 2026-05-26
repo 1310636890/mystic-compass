@@ -1,6 +1,6 @@
 baseURL: https://like-chess.surge.sh
 locale: en_US
-title: Mystic Compass — Feng Shui Platform Reviews, Comparisons & Best Picks
+title: Mystic Compass — Free Feng Shui Tools & Personal Assessments
 enableRobotsTXT: true
 enableEmoji: true
 summaryLength: 30
@@ -8,7 +8,6 @@ paginate: 12
 paginatePath: page
 taxonomies:
   category: categories
-  platform: platforms
   tag: tags
 markup:
   goldmark:
@@ -18,30 +17,22 @@ markup:
     style: monokai
 menus:
   main:
-  - identifier: reviews
-    name: Reviews
-    url: /reviews/
+  - identifier: tools
+    name: Free Tools
+    url: /tools/
     weight: 1
-  - identifier: comparisons
-    name: Comparisons
-    url: /vs/
+  - identifier: blog
+    name: Blog
+    url: /blog/
     weight: 2
-  - identifier: best
-    name: Best Picks
-    url: /best/
-    weight: 3
   - identifier: guides
     name: Guides
     url: /guide/
+    weight: 3
+  - identifier: best
+    name: Best Products
+    url: /best/
     weight: 4
-  - identifier: tools
-    name: TOOLS
-    url: /tools/
-    weight: 5
-  - identifier: affiliate
-    name: Affiliate
-    url: /affiliate-programs/
-    weight: 6
 outputs:
   home:
   - HTML
@@ -56,8 +47,7 @@ security:
     - ^HUGO_
     - ^CI$
 params:
-  description: Your compass for Feng Shui & Chinese metaphysics. Expert reviews and
-    comparisons of the best platforms, products, and courses.
+  description: Free Feng Shui tools & personal assessments. Use our Kua Number Calculator, Flying Star Chart, and Bagua Map to evaluate your home and fortune — then get product picks tailored to your results.
   author: Mystic Compass
   googleAnalytics: ''
   social:
