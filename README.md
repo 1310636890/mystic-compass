@@ -233,3 +233,5 @@ hugo new guide/what-is-feng-shui.md
 - **CI/CD**: GitHub Actions (auto-deploy on push)
 
 **Total monthly cost: $0** (plus ~$11/year for domain)
+
+<!-- auto-deploy verified -->
