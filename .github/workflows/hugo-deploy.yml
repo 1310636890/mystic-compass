@@ -14,6 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Cache Hugo modules
+        uses: actions/cache@v4
+        with:
+          path: |
+            /tmp/hugo_cache
+            ~/.npm
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/config.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
