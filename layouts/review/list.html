@@ -1,0 +1,21 @@
+{{ define "title" }}Feng Shui Platform Reviews — {{ .Site.Title }}{{ end }}
+{{ define "og_title" }}Feng Shui Platform Reviews — {{ .Site.Title }}{{ end }}
+{{ define "twitter_title" }}Feng Shui Platform Reviews — {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="review-index">
+  <div class="container">
+    <h1>Feng Shui Platform Reviews</h1>
+    <p>Independent reviews of 12+ Feng Shui platforms. Ratings, commission details, pros & cons.</p>
+    <div class="grid-3">
+      {{ range .Pages }}
+      <article class="card review-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <a href="{{ .RelPermalink }}" class="btn-small">Read Review →</a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

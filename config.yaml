@@ -1,0 +1,71 @@
+# Mystic Compass — Hugo Configuration
+baseURL: "https://mystic-compass.com/"
+locale: "en_US"
+title: "Mystic Compass — Feng Shui & Chinese Metaphysics"
+# No external theme — custom templates in layouts/
+
+# Build settings
+enableRobotsTXT: true
+enableEmoji: true
+summaryLength: 30
+
+# Pagination
+paginate: 12
+paginatePath: "page"
+
+# Taxonomies
+taxonomies:
+  category: categories
+  platform: platforms
+  tag: tags
+
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Allow raw HTML in markdown
+  highlight:
+    style: monokai
+
+# Menus
+menus:
+  main:
+    - identifier: reviews
+      name: Reviews
+      url: /reviews/
+      weight: 1
+    - identifier: comparisons
+      name: Comparisons
+      url: /vs/
+      weight: 2
+    - identifier: best
+      name: Best Picks
+      url: /best/
+      weight: 3
+    - identifier: guides
+      name: Guides
+      url: /guide/
+      weight: 4
+
+# Output
+outputs:
+  home: ["HTML", "RSS"]
+  section: ["HTML", "RSS"]
+
+# Security
+security:
+  enableInlineShortcodes: true
+  funcs:
+    getenv:
+      - "^HUGO_"
+      - "^CI$"
+
+# Params (used in templates)
+params:
+  description: "Your compass for Feng Shui & Chinese metaphysics. Expert reviews and comparisons of the best platforms, products, and courses."
+  author: "Mystic Compass"
+  googleAnalytics: ""  # Add your GA4 ID later
+  social:
+    twitter: ""
+    pinterest: ""
+  affiliate_disclaimer: "We may earn a commission when you purchase through our links."

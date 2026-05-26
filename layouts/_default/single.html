@@ -1,0 +1,15 @@
+{{ define "title" }}{{ .Title }} — {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<article class="guide-page">
+  <div class="container-narrow">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> &rsaquo; <a href="/guide/">Guides</a> &rsaquo; {{ .Title }}
+    </nav>
+    <h1>{{ .Title }}</h1>
+    <div class="post-meta">
+      {{ if .Params.author }}By {{ .Params.author }} · {{ end }}{{ .Date.Format "January 2, 2006" }}
+    </div>
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

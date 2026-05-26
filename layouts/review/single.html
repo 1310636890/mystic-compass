@@ -1,0 +1,125 @@
+{{ define "schema" }}
+{{ $slug := .Params.slug }}
+{{ $platforms := .Site.Data.fengshui_platforms.platforms }}
+{{ $p := index (where $platforms "slug" $slug) 0 }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": "{{ $p.name }} Review",
+  "itemReviewed": {
+    "@type": "Product",
+    "name": "{{ $p.name }}",
+    "description": "{{ $p.name }} — Feng Shui platform with {{ len $p.product_lines }} product lines",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ $p.ratings.overall }}",
+    "bestRating": "10",
+    "worstRating": "0"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}"
+}
+</script>
+{{ end }}
+{{ define "title" }}{{ .Params.platform_name }} Review 2025 — Ratings, Pricing & Verdict{{ end }}
+{{ define "main" }}
+{{ $slug := .Params.slug }}
+{{ $platforms := .Site.Data.fengshui_platforms.platforms }}
+{{ $p := index (where $platforms "slug" $slug) 0 }}
+
+<article class="review-page">
+  <div class="container-narrow">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> &rsaquo; <a href="/reviews/">Reviews</a> &rsaquo; {{ $p.name }}
+    </nav>
+
+    <header class="review-header">
+      <h1>{{ $p.name }} Review {{ now.Format "2006" }}</h1>
+      <div class="review-meta">
+        <span class="rating-badge {{ if gt $p.ratings.overall 8.0 }}great{{ else if gt $p.ratings.overall 7.0 }}good{{ else }}ok{{ end }}">
+          {{ $p.ratings.overall }}/10
+        </span>
+        <span class="category-badge">{{ $p.category }}</span>
+        <span class="commission-info">{{ $p.affiliate.commission }}% commission</span>
+      </div>
+      <p class="affiliate-disclosure">We may earn a commission if you purchase through our links — at no extra cost to you.</p>
+    </header>
+
+    <div class="prose">
+      {{ .Content }}
+    </div>
+
+    <section class="rating-breakdown">
+      <h2>Rating Breakdown</h2>
+      <table class="ratings-table">
+        <tr><td>Overall</td><td><strong>{{ $p.ratings.overall }}/10</strong></td></tr>
+        <tr><td>Product Quality</td><td>{{ $p.ratings.product_quality }}/10</td></tr>
+        <tr><td>Pricing Value</td><td>{{ $p.ratings.pricing_value }}/10</td></tr>
+        {{ if $p.ratings.shipping }}
+        <tr><td>Shipping</td><td>{{ $p.ratings.shipping }}/10</td></tr>
+        {{ end }}
+        <tr><td>Support</td><td>{{ $p.ratings.support }}/10</td></tr>
+        <tr><td>Website Usability</td><td>{{ $p.ratings.website_usability }}/10</td></tr>
+      </table>
+    </section>
+
+    {{ if $p.pros }}
+    <section class="pros-cons">
+      <div class="pros">
+        <h2>What We Like</h2>
+        <ul>{{ range $p.pros }}<li>✅ {{ . }}</li>{{ end }}</ul>
+      </div>
+      <div class="cons">
+        <h2>Room for Improvement</h2>
+        <ul>{{ range $p.cons }}<li>❌ {{ . }}</li>{{ end }}</ul>
+      </div>
+    </section>
+    {{ end }}
+
+    <section>
+      <h2>What They Offer</h2>
+      <ul class="product-grid">
+        {{ range $p.product_lines }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section class="best-for">
+      <h2>Best For</h2>
+      <ul>{{ range $p.best_for }}<li>{{ . }}</li>{{ end }}</ul>
+      <h2>Not Ideal For</h2>
+      <ul>{{ range $p.not_for }}<li>{{ . }}</li>{{ end }}</ul>
+    </section>
+
+    {{ if $p.affiliate }}
+    <section class="affiliate-box">
+      <h2>Affiliate Program</h2>
+      <table>
+        <tr><td>Commission</td><td><strong>{{ $p.affiliate.commission }}%</strong></td></tr>
+        <tr><td>Cookie Duration</td><td>{{ $p.affiliate.cookie_days }} days</td></tr>
+        {{ if $p.affiliate.min_payout }}
+        <tr><td>Min Payout</td><td>${{ $p.affiliate.min_payout }}</td></tr>
+        {{ end }}
+        <tr><td>Auto-Approval</td><td>{{ if $p.affiliate.auto_approve }}Yes{{ else }}Manual review{{ end }}</td></tr>
+      </table>
+      {{ if $p.affiliate_url }}
+      <a href="{{ $p.affiliate_url }}" class="btn-affiliate" rel="nofollow sponsored" target="_blank">
+        Visit {{ $p.name }} →
+      </a>
+      {{ end }}
+    </section>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

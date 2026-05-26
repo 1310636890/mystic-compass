@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ block "og_title" . }}{{ .Site.Title }}{{ end }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ block "twitter_title" . }}{{ .Site.Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+  <!-- RSS -->
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+
+  <link rel="stylesheet" href="/css/style.css">
+
+  <!-- Organization Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "sameAs": []
+  }
+  </script>
+
+  <!-- Page-specific Schema -->
+  {{ block "schema" . }}{{ end }}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">
+        <span class="logo-icon">🧭</span>
+        <span class="logo-text">Mystic Compass</span>
+      </a>
+      <nav class="main-nav">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ if not (or (eq .Type "review") (eq .Type "comparison")) }}
+  <section class="cta-section">
+    <div class="container">
+      <h2>Ready to Find Your Platform?</h2>
+      <p>Browse our reviews, compare features, and pick the Feng Shui platform that fits your journey.</p>
+      <a href="/reviews/" class="btn-primary">See All Reviews</a>
+    </div>
+  </section>
+  {{ end }}
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-disclosure">
+          <p>{{ .Site.Params.affiliate_disclaimer }}</p>
+          <p class="copyright">&copy; {{ now.Format "2006" }} Mystic Compass. All rights reserved.</p>
+        </div>
+        <nav class="footer-nav">
+          <a href="/reviews/">Reviews</a>
+          <a href="/vs/">Comparisons</a>
+          <a href="/guide/">Guides</a>
+          <a href="/best/">Best Picks</a>
+        </nav>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

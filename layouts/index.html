@@ -1,0 +1,111 @@
+{{ define "title" }}{{ .Site.Title }} — Feng Shui Platform Reviews & Comparisons{{ end }}
+
+{{ define "main" }}
+<!-- Hero -->
+<section class="hero">
+  <div class="container">
+    <h1>Find the <span>Perfect Feng Shui</span> Platform for Your Journey</h1>
+    <p class="hero-subtitle">Honest reviews and side-by-side comparisons of 12 Feng Shui platforms — from authentic product stores to master courses. Save time, avoid scams, and pick with confidence.</p>
+    <div class="hero-cta">
+      <a href="/reviews/" class="btn-primary">Browse Reviews →</a>
+      <a href="/vs/" class="btn-secondary">Compare Platforms</a>
+    </div>
+    <div class="stats-bar">
+      <div class="stat-item">
+        <div class="stat-number">12</div>
+        <div class="stat-label">Platforms Reviewed</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">66</div>
+        <div class="stat-label">Comparisons</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">35%</div>
+        <div class="stat-label">Max Commission</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">8</div>
+        <div class="stat-label">Auto-Approve</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Top Rated -->
+<section class="featured">
+  <div class="container">
+    <div class="section-header">
+      <h2>Top Rated Platforms</h2>
+      <p>Hand-picked Feng Shui platforms with the best products, highest commissions, and strongest reputations.</p>
+    </div>
+    <div class="grid-3">
+      {{ $platforms := .Site.Data.fengshui_platforms.platforms }}
+      {{ range first 3 (where $platforms "priority" "eq" 1) }}
+      <article class="card animate-in {{ if eq .id 1 }}stagger-1{{ else if eq .id 2 }}stagger-2{{ else }}stagger-3{{ end }}">
+        <div class="card-badge">#{{ .id }}</div>
+        <h3><a href="/reviews/{{ .slug }}/">{{ .name }}</a></h3>
+        <p>{{ index .product_lines 0 }}, {{ index .product_lines 1 }}…</p>
+        <div class="rating">
+          <span class="stars">{{ .ratings.overall }}/10</span>
+        </div>
+        <span class="commission-highlight">{{ .affiliate.commission }}% commission · {{ .affiliate.cookie_days }}d cookie</span>
+        <br>
+        <a href="/reviews/{{ .slug }}/" class="btn-small">Read Review →</a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- Categories -->
+<section class="categories">
+  <div class="container">
+    <div class="section-header">
+      <h2>Explore by Category</h2>
+      <p>Whether you want products, courses, or personal consultations — find the right type of platform for you.</p>
+    </div>
+    <div class="grid-4">
+      <a href="/reviews/categories/products/" class="cat-card">
+        <span class="cat-icon">🏪</span>
+        <h3>Product Stores</h3>
+        <p>Crystals, compasses, cures & Feng Shui items</p>
+      </a>
+      <a href="/reviews/categories/courses/" class="cat-card">
+        <span class="cat-icon">📚</span>
+        <h3>Courses & Training</h3>
+        <p>Learn Feng Shui from certified masters</p>
+      </a>
+      <a href="/reviews/categories/consulting/" class="cat-card">
+        <span class="cat-icon">🤝</span>
+        <h3>Consulting Services</h3>
+        <p>Personalized home & business analysis</p>
+      </a>
+      <a href="/guide/" class="cat-card">
+        <span class="cat-icon">📖</span>
+        <h3>Free Guides</h3>
+        <p>Beginner-friendly Feng Shui guides</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Latest Comparisons -->
+<section class="latest">
+  <div class="container">
+    <div class="section-header">
+      <h2>Latest Comparisons</h2>
+      <p>Side-by-side breakdowns to help you compare commission rates, product lines, and platform quality.</p>
+    </div>
+    <div class="list-compact">
+      {{ $platforms := .Site.Data.fengshui_platforms.platforms }}
+      {{ $p1 := index $platforms 0 }}
+      {{ $p2 := index $platforms 1 }}
+      {{ $p3 := index $platforms 2 }}
+      <a href="/vs/{{ $p1.slug }}-vs-{{ $p2.slug }}/">{{ $p1.name }} vs {{ $p2.name }}</a>
+      <a href="/vs/{{ $p1.slug }}-vs-{{ $p3.slug }}/">{{ $p1.name }} vs {{ $p3.name }}</a>
+      <a href="/vs/{{ $p2.slug }}-vs-{{ $p3.slug }}/">{{ $p2.name }} vs {{ $p3.name }}</a>
+      <a href="/vs/">View all 66 comparisons →</a>
+    </div>
+  </div>
+</section>
+{{ end }}

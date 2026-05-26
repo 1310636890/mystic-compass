@@ -1,0 +1,25 @@
+{{ define "title" }}{{ .Title }} — {{ .Site.Title }}{{ end }}
+{{ define "og_title" }}{{ .Title }}{{ end }}
+{{ define "twitter_title" }}{{ .Title }}{{ end }}
+
+{{ define "main" }}
+<article class="best-content">
+  <div class="container-narrow">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> &rsaquo; <a href="/best/">Best Picks</a> &rsaquo; {{ .Title }}
+    </nav>
+    <header class="content-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}
+      <p class="subtitle">{{ . }}</p>
+      {{ end }}
+      <div class="post-meta">
+        Updated {{ .Date.Format "January 2, 2006" }}
+      </div>
+    </header>
+    <div class="content-body">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}

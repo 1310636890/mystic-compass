@@ -1,0 +1,20 @@
+{{ define "title" }}Feng Shui Platform Comparisons — {{ .Site.Title }}{{ end }}
+{{ define "og_title" }}Feng Shui Platform Comparisons — {{ .Site.Title }}{{ end }}
+{{ define "twitter_title" }}Feng Shui Platform Comparisons — {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="comparison-index">
+  <div class="container">
+    <h1>Platform Comparisons</h1>
+    <p>Side-by-side breakdowns. Compare commissions, product quality, and affiliate programs.</p>
+    <div class="list-compact">
+      {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="comp-link">
+        <span class="comp-title">{{ .Title }}</span>
+        {{ with .Description }}<span class="comp-desc">{{ . }}</span>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,23 @@
+{{ define "title" }}Best Feng Shui Platforms — {{ .Site.Title }}{{ end }}
+{{ define "og_title" }}Best Feng Shui Platforms — {{ .Site.Title }}{{ end }}
+{{ define "twitter_title" }}Best Feng Shui Platforms — {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="best-index">
+  <div class="container">
+    <div class="section-header">
+      <h1>Best Feng Shui Platforms</h1>
+      <p>Curated rankings for every need — products, courses, consulting, books, and beginners.</p>
+    </div>
+    <div class="grid-2">
+      {{ range .Pages }}
+      <article class="card best-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <a href="{{ .RelPermalink }}" class="btn-small">View Rankings →</a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

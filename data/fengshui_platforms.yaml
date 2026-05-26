@@ -1,0 +1,737 @@
+platforms:
+- id: fengshui-world
+  name: Feng Shui World
+  slug: fengshui-world
+  url: https://www.fengshuiworld.com
+  category: products
+  priority: 1
+  has_affiliate: true
+  headquarters: Singapore
+  founded: 2004
+  language: English, Chinese
+  affiliate:
+    commission: 35
+    commission_type: percentage
+    commission_note: Up to 35% per sale
+    cookie_days: 30
+    min_payout: 50
+    network: direct
+    auto_approve: true
+    signup_url: https://www.fengshuiworld.com/affiliate
+  pricing:
+    price_range: $15 - $500
+    currency: USD
+    has_free: false
+    product_count: 500
+    avg_order: 80
+  ratings:
+    overall: 8.5
+    product_quality: 9.0
+    pricing_value: 8.0
+    shipping: 7.0
+    support: 8.0
+    website_usability: 6.5
+  product_lines:
+  - Feng Shui Compasses (Luo Pan)
+  - Crystals & Natural Stones
+  - Bagua Mirrors
+  - Wind Chimes
+  - Buddha & Deity Statues
+  - Fortune Cats & Lucky Charms
+  - Wealth Ships
+  - Incense & Holders
+  - Pi Yao & Dragon Statues
+  - Feng Shui Bracelets & Jewelry
+  best_for:
+  - Feng Shui practitioners looking for authentic tools
+  - Home decor enthusiasts exploring Feng Shui
+  - Chinese New Year gift shopping
+  - Beginners wanting a one-stop shop
+  not_for:
+  - Online course learners
+  - One-on-one consulting needs
+  - Digital products seekers
+  - Western audiences uncomfortable with Chinese sites
+  pros:
+  - Largest selection of authentic Feng Shui products online
+  - 5 physical galleries in Singapore = real business trust
+  - Highest affiliate commission rate (35%) in the niche
+  - 30-day cookie window is generous for physical products
+  - Free to join, no minimum sales requirement
+  cons:
+  - International shipping costs can be high
+  - Website UI feels dated (2000s design)
+  - Limited English content for Western audiences
+  - No digital products or online courses
+  - Minimum payout $50 (may take time for new sites)
+  shipping:
+    international: true
+    countries:
+    - Singapore
+    - Malaysia
+    - USA
+    - UK
+    - Australia
+    - Europe
+    free_shipping_threshold: 150
+    avg_delivery_days: 7
+  featured_image: /images/platforms/fengshui-world.jpg
+  data_complete: true
+- id: fengshui-online
+  name: Feng Shui Online
+  slug: fengshui-online
+  url: https://www.fengshuionline.com
+  category: consulting
+  priority: 1
+  has_affiliate: true
+  headquarters: Potsdam, Germany
+  founded: 2010
+  language: English, German
+  affiliate:
+    commission: 20
+    commission_type: percentage
+    commission_note: Up to 20% on consultation bookings
+    cookie_days: 30
+    min_payout: 50
+    network: direct
+    auto_approve: true
+  pricing:
+    price_range: $100 - $500 per consultation
+    currency: EUR
+    has_free: false
+    product_count: 5
+    avg_order: 250
+  ratings:
+    overall: 8.0
+    product_quality: 8.5
+    pricing_value: 7.0
+    shipping: 0
+    support: 8.5
+    website_usability: 8.0
+  product_lines:
+  - Residential Feng Shui Consultation
+  - Business Feng Shui Consultation
+  - Distance Feng Shui Analysis
+  - Feng Shui Coaching Packages
+  - Custom Feng Shui Reports
+  best_for:
+  - Homeowners serious about Feng Shui
+  - Business owners wanting workspace optimization
+  - European clients (GMT timezone)
+  not_for:
+  - Budget-conscious seekers
+  - Quick product purchases
+  - Non-European time zones
+  pros:
+  - Professional European Feng Shui consultant
+  - 20% commission on high-ticket consultations
+  - Free promotional materials provided
+  - 30-day cookie window
+  cons:
+  - Consultation-only (no physical products)
+  - Higher price point = fewer conversions
+  - Timezone limited to European hours
+  featured_image: /images/platforms/fengshui-online.jpg
+  data_complete: true
+- id: joey-yap
+  name: Joey Yap
+  slug: joey-yap
+  url: https://www.joeyyap.com
+  category: courses
+  priority: 1
+  has_affiliate: true
+  headquarters: Kuala Lumpur, Malaysia
+  founded: 1998
+  language: English, Chinese, 7+ languages
+  affiliate:
+    commission: 10
+    commission_type: percentage
+    commission_note: Up to 10% on courses and books
+    cookie_days: 30
+    min_payout: 100
+    network: direct
+    auto_approve: true
+  pricing:
+    price_range: $20 - $5,000
+    currency: USD
+    has_free: true
+    free_limit: Free blog articles, YouTube videos, some mini-courses
+    product_count: 200
+    avg_order: 200
+  ratings:
+    overall: 9.2
+    product_quality: 9.5
+    pricing_value: 8.0
+    shipping: 8.0
+    support: 9.0
+    website_usability: 9.0
+  product_lines:
+  - Feng Shui Online Courses (Beginner to Master)
+  - Ba Zi (Chinese Astrology) Courses
+  - Books (183+ titles in 7 languages)
+  - Live Seminar Tickets
+  - Feng Shui Software & Apps
+  - Consultation Services
+  - Annual Feng Shui Almanac
+  best_for:
+  - Serious students of Chinese metaphysics
+  - Practitioners seeking certification
+  - Self-learners who prefer structured courses
+  - Readers who want authoritative books
+  not_for:
+  - Quick Feng Shui fixes
+  - One-time product buyers
+  - Those who don't like video courses
+  pros:
+  - 'World''s #1 Feng Shui authority — 4.5M+ books sold'
+  - Professional courseware with certification paths
+  - 183 books = massive content for affiliate pages
+  - High-ticket courses ($500-5,000) = big commissions
+  - Strong brand recognition globally
+  cons:
+  - 10% commission is lowest among top 3 platforms
+  - Minimum payout $100 (requires more sales to reach)
+  - Steep learning curve for complete beginners
+  - Asian timezone for live events
+  featured_image: /images/platforms/joey-yap.jpg
+  data_complete: true
+- id: unique-fengshui
+  name: Unique Feng Shui
+  slug: unique-fengshui
+  url: https://www.uniquefengshui.com/
+  category: products
+  priority: 2
+  has_affiliate: true
+  affiliate:
+    network: In-house
+    commission: 15
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: false
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.5
+    product_quality: 8.0
+    pricing_value: 7.5
+    shipping: 7.0
+    support: 7.0
+    website_usability: 6.5
+  product_lines:
+  - Feng Shui Cures & Enhancers
+  - Chinese Zodiac Items
+  - Crystals & Gemstones
+  - Wind Chimes & Bells
+  - Bagua Mirrors
+  - Wealth Ships
+  - Buddha & Deity Statues
+  - Bracelets & Jewelry
+  best_for:
+  - Feng Shui practitioners looking for authentic tools
+  - Gift shoppers
+  - Home decor enthusiasts
+  - Budget-conscious buyers
+  not_for: []
+  pros:
+  - 20+ product catalogs since 2001
+  - Free Feng Shui tips & educational content
+  - Monthly specials and discounts
+  - Worldwide shipping
+  cons:
+  - Dated website design (classic e-commerce)
+  - No auto-approval for affiliates
+  - Limited English content on some products
+  - No digital products or courses
+  featured_image: /images/platforms/unique-fengshui.jpg
+  data_complete: true
+  headquarters: United States
+  founded: 2001
+  language: English
+  not_ideal_for:
+  - Affiliates wanting instant approval
+  - Digital course seekers
+  - Consulting service buyers
+  - Mobile-first shoppers
+  price_range: $5 - $300
+  verdict: Unique Feng Shui has been selling genuine Feng Shui products since 2001 with 20+ catalogs. While the website design
+    feels dated, the product quality and educational content make it a solid choice. Affiliates will need to apply for approval.
+- id: buy-fengshui
+  name: Buy-FengShui.com
+  slug: buy-fengshui
+  url: https://buy-fengshui.com/
+  category: products
+  priority: 2
+  has_affiliate: true
+  affiliate:
+    network: In-house
+    commission: 12
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: false
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.8
+    product_quality: 8.0
+    pricing_value: 8.0
+    shipping: 7.5
+    support: 7.0
+    website_usability: 7.0
+  product_lines:
+  - Feng Shui Cures & Enhancers
+  - Oriental Gifts
+  - Chinese Zodiac Items
+  - Crystals & Stones
+  - Bagua Mirrors
+  - Wind Chimes
+  - Buddha Statues
+  - Feng Shui Jewelry
+  - Home Decor
+  - Protection Amulets
+  best_for:
+  - Bulk buyers and resellers
+  - Feng Shui enthusiasts wanting variety
+  - Gift shop owners
+  - Bargain hunters (best-buy section)
+  not_for: []
+  pros:
+  - Massive catalog — 3000+ products
+  - Up to 80% discount on best-buy section
+  - Wholesale supply available
+  - Live chat support
+  cons:
+  - Cloudflare protection may block some visitors
+  - No auto-approval for affiliates
+  - Overwhelming catalog for beginners
+  - Some products lack detailed descriptions
+  featured_image: /images/platforms/buy-fengshui.jpg
+  data_complete: true
+  headquarters: United States
+  founded: 2005
+  language: English
+  not_ideal_for:
+  - Beginners who need curation
+  - Consulting service seekers
+  - Digital product buyers
+  price_range: $3 - $200
+  verdict: Buy-FengShui.com offers one of the largest Feng Shui product catalogs online with over 3000 items. Their best-buy
+    section with up to 80% discounts is a strong selling point. Best for affiliates targeting bulk buyers and bargain hunters.
+- id: fengshui-import
+  name: Feng Shui Import
+  slug: fengshui-import
+  url: https://www.fengshui-import.com/
+  category: products
+  priority: 3
+  has_affiliate: true
+  affiliate:
+    network: In-house (ZenCart)
+    commission: 10
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: true
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.3
+    product_quality: 7.5
+    pricing_value: 7.5
+    shipping: 7.0
+    support: 6.5
+    website_usability: 6.0
+  product_lines:
+  - Amulets & Talismans
+  - Buddhism & God Statues
+  - Chinese Gifts
+  - Chinese Zodiac Items
+  - Feng Shui Animals
+  - Gemstones
+  - Jewelry
+  - Water Fountains
+  - New Year Items
+  - Feng Shui Books
+  best_for:
+  - Dropshippers and wholesalers
+  - Budget-conscious Feng Shui buyers
+  - Bulk purchasers
+  not_for: []
+  pros:
+  - Direct importer since 1998 — authentic products
+  - Drop-ship and wholesale programs available
+  - Low minimum payout ($50)
+  - Free Feng Shui guides and tips
+  cons:
+  - Very dated website (classic ZenCart)
+  - Only 10% commission (lowest among product stores)
+  - Poor mobile experience
+  - Limited support responsiveness
+  featured_image: /images/platforms/fengshui-import.jpg
+  data_complete: true
+  headquarters: San Diego, California
+  founded: 1998
+  language: English
+  not_ideal_for:
+  - High-commission seekers
+  - Mobile shoppers
+  - Modern design expectations
+  price_range: $3 - $150
+  verdict: Feng Shui Import is one of the oldest direct importers (since 1998) with authentic products and drop-ship programs.
+    However, the dated ZenCart website and low 10% commission make it less attractive for affiliates compared to competitors.
+- id: fengshui-master-course
+  name: Feng Shui Master Consultant Course
+  slug: fengshui-master-course
+  url: https://www.fengshuitrainingcenter.com/
+  category: courses
+  priority: 2
+  has_affiliate: true
+  affiliate:
+    network: In-house
+    commission: 20
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 100
+    auto_approval: false
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.5
+    product_quality: 8.0
+    pricing_value: 7.0
+    shipping: 9.0
+    support: 7.5
+    website_usability: 7.0
+  product_lines:
+  - Level 1-4 Master Courses
+  - Video Self-Study Programs
+  - Feng Shui Certification
+  - Business Feng Shui Training
+  - Advanced Classical Feng Shui
+  best_for:
+  - Serious Feng Shui students
+  - Professional certification seekers
+  - High-ticket affiliate marketers
+  - Business consultants
+  not_for: []
+  pros:
+  - Structured 4-level mastery program
+  - Video self-study option
+  - Certification pathway
+  - High-ticket items (~$500-$2000 per course)
+  cons:
+  - High price point limits audience
+  - No auto-approval for affiliates
+  - Limited free content for lead nurturing
+  - Niche audience (serious learners only)
+  featured_image: /images/platforms/fengshui-master-course.jpg
+  data_complete: true
+  headquarters: United States
+  founded: 2010
+  language: English
+  not_ideal_for:
+  - Casual learners
+  - Product-focused shoppers
+  - Low-budget audiences
+  price_range: $200 - $2000 per course
+  verdict: Feng Shui Master Course offers a structured certification pathway with 4 levels of training. The 20% commission
+    on high-ticket courses ($200-$2000) means significant earnings per sale, though the niche audience requires targeted marketing.
+- id: fengshui-advantage
+  name: Feng Shui Advantage
+  slug: fengshui-advantage
+  url: https://fengshuiadvantage.com/
+  category: consulting
+  priority: 3
+  has_affiliate: true
+  affiliate:
+    network: In-house
+    commission: 25
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: false
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 8.0
+    product_quality: 8.5
+    pricing_value: 7.5
+    shipping: 9.0
+    support: 8.0
+    website_usability: 7.0
+  product_lines:
+  - Lifetime Keys Personal Directions Toolbox
+  - Self-Mastery Programs
+  - Feng Shui Consulting
+  - Personal Directions Reports
+  - Business Feng Shui Analysis
+  best_for:
+  - High-ticket affiliate marketers
+  - Business professionals seeking Feng Shui
+  - Solo-preneurs and entrepreneurs
+  not_for: []
+  pros:
+  - Highest commission rate (25%) among consulting platforms
+  - Founded in 1997 — decades of credibility
+  - Award-winning monthly ezine
+  - Specialized in solo-preneur consulting
+  cons:
+  - Limited product range (mainly consulting + toolbox)
+  - No auto-approval for affiliates
+  - Expensive products ($100-$500+) limits conversion
+  - Outdated website design
+  featured_image: /images/platforms/fengshui-advantage.jpg
+  data_complete: true
+  headquarters: Monterey Park, California
+  founded: 1997
+  language: English
+  not_ideal_for:
+  - Budget-conscious buyers
+  - Product-focused shoppers
+  - Beginners wanting cheap entry points
+  price_range: $100 - $500+
+  verdict: Feng Shui Advantage offers the highest commission rate (25%) in the consulting niche. Founded in 1997, PK Feng
+    Shui has decades of authority. Best for affiliates targeting entrepreneurs and professionals willing to invest in premium
+    consulting.
+- id: karen-rauch-carter
+  name: Karen Rauch Carter
+  slug: karen-rauch-carter
+  url: https://karenrauchcarter.com/
+  category: courses
+  priority: 2
+  has_affiliate: true
+  affiliate:
+    network: In-house
+    commission: 20
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: false
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 8.2
+    product_quality: 8.5
+    pricing_value: 8.0
+    shipping: 9.0
+    support: 8.0
+    website_usability: 7.5
+  product_lines:
+  - Feng Shui Certification Program
+  - Books & E-books
+  - Online Courses
+  - Personal Consultations
+  - Feng Shui Palace Products
+  best_for:
+  - Book and course promoters
+  - Lifestyle and wellness bloggers
+  - Professional certification seekers
+  - Female-focused audiences
+  not_for: []
+  pros:
+  - Bestselling author ("Move Your Stuff, Change Your Life")
+  - 20% commission on most products
+  - Established brand — Feng Shui Palace
+  - Professional certification available
+  - Promotional materials provided
+  cons:
+  - Certification commissions only 12%
+  - No auto-approval for affiliates
+  - High-ticket items mean longer sales cycles
+  - Limited free content for affiliates
+  featured_image: /images/platforms/karen-rauch-carter.jpg
+  data_complete: true
+  headquarters: United States
+  founded: 2000
+  language: English
+  not_ideal_for:
+  - Low-commission seekers (cert = 12%)
+  - Product-focused affiliates
+  - Beginners wanting cheap offers
+  price_range: $15 (books) - $2000+ (certification)
+  verdict: Karen Rauch Carter is arguably the most recognized Feng Shui author in the West. Her affiliate program offers 20%
+    commission on most products and her brand authority converts well. The 12% certification rate is a notable drawback.
+- id: fengshui-mall
+  name: Feng Shui Mall
+  slug: fengshui-mall
+  url: https://www.fengshuimall.com/
+  category: products
+  priority: 3
+  has_affiliate: true
+  affiliate:
+    network: In-house (iDevAffiliate)
+    commission: 10
+    commission_type: percentage
+    cookie_days: 180
+    min_payout: 50
+    auto_approval: true
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.5
+    product_quality: 7.5
+    pricing_value: 7.5
+    shipping: 7.5
+    support: 7.0
+    website_usability: 7.0
+  product_lines:
+  - Feng Shui Cures & Enhancers
+  - Chinese Zodiac Items
+  - Crystals & Gemstones
+  - Wind Chimes
+  - Bagua Mirrors
+  - Buddha Statues
+  - Protection Amulets
+  - Wealth & Prosperity Items
+  best_for:
+  - Affiliates wanting long cookie windows
+  - Beginners (auto-approval + signup bonus)
+  - Product-focused marketers
+  - Long-term nurturing strategies
+  not_for: []
+  pros:
+  - 180-day cookie window (longest in niche)
+  - $10 signup bonus for affiliates
+  - Auto-approval for affiliates
+  - Monthly PayPal payouts
+  - Real-time statistics dashboard
+  - Regular promotions and sales
+  cons:
+  - Only 10% commission rate
+  - Generic product-focused (less brand authority)
+  - No courses or consulting
+  - Average website design
+  featured_image: /images/platforms/fengshui-mall.jpg
+  data_complete: true
+  headquarters: United States
+  founded: 2008
+  language: English
+  not_ideal_for:
+  - High-commission seekers
+  - Course/consulting promoters
+  - Premium brand positioning
+  price_range: $5 - $200
+  verdict: Feng Shui Mall's standout feature is the 180-day cookie window — 6x longer than most competitors. The auto-approval
+    and $10 signup bonus make it beginner-friendly, though the 10% commission rate is on the lower end.
+- id: fengshui-home
+  name: Feng Shui Home
+  slug: fengshui-home
+  url: https://www.fengshuihome.com/
+  category: products
+  priority: 2
+  has_affiliate: true
+  affiliate:
+    network: ShareASale
+    commission: 12
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: true
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.0
+    product_quality: 7.0
+    pricing_value: 7.5
+    shipping: 7.0
+    support: 6.5
+    website_usability: 6.5
+  product_lines:
+  - Feng Shui Home Decor
+  - Water Fountains
+  - Crystals & Stones
+  - Indoor Plants & Bonsai
+  - Wall Art & Mirrors
+  - Aromatherapy & Incense
+  best_for:
+  - Home decor and lifestyle bloggers
+  - Mainstream audiences (not hardcore Feng Shui)
+  - Beginners wanting easy approval
+  not_for: []
+  pros:
+  - Home decor crossover appeal
+  - ShareASale network (easy tracking)
+  - Auto-approval for affiliates
+  - Appeals to mainstream audience
+  cons:
+  - Generic branding (less Feng Shui authority)
+  - Limited product range
+  - No educational content
+  - Average commission (12%)
+  featured_image: /images/platforms/fengshui-home.jpg
+  data_complete: true
+  headquarters: United States
+  founded: 2010
+  language: English
+  not_ideal_for:
+  - Serious Feng Shui practitioners
+  - High-commission seekers
+  - Course/consulting promoters
+  price_range: $10 - $150
+  verdict: Feng Shui Home targets the mainstream home decor market with a Feng Shui angle. The ShareASale network makes tracking
+    easy, but the generic branding and limited authority in the Feng Shui niche limit its potential for serious affiliates.
+- id: fengshui-design-solutions
+  name: Feng Shui Design Solutions
+  slug: fengshui-design-solutions
+  url: https://fengshui-designsolutions.com/
+  category: products
+  priority: 3
+  has_affiliate: true
+  affiliate:
+    network: In-house
+    commission: 10
+    commission_type: percentage
+    cookie_days: 30
+    min_payout: 50
+    auto_approval: false
+  pricing:
+    price_range: ''
+    currency: USD
+  ratings:
+    overall: 7.0
+    product_quality: 7.5
+    pricing_value: 7.0
+    shipping: 9.0
+    support: 7.5
+    website_usability: 6.0
+  product_lines:
+  - Online Feng Shui Consulting
+  - Phone/Video Chat Consultations
+  - Feng Shui Products Catalog
+  - Home & Office Feng Shui Analysis
+  - Bagua Maps
+  best_for:
+  - Budget-conscious consulting seekers
+  - Homeowners wanting practical Feng Shui
+  - Local California referrals
+  not_for: []
+  pros:
+  - Low-cost online consulting (accessible pricing)
+  - Worldwide service via video chat
+  - Product catalog for one-stop shopping
+  - Female-owned business
+  cons:
+  - Only 10% commission
+  - Small operation (limited scale)
+  - Dated WordPress site
+  - Limited brand recognition
+  featured_image: /images/platforms/fengshui-design-solutions.jpg
+  data_complete: true
+  headquarters: Banning, California
+  founded: 2005
+  language: English
+  not_ideal_for:
+  - High-commission affiliates
+  - High-volume expectations
+  - International brand seekers
+  price_range: $50 - $300 per consultation
+  verdict: Feng Shui Design Solutions offers accessible online consulting at affordable rates. The 10% commission is low,
+    but the low-cost consultations mean easier conversions for the right audience. Best as a secondary recommendation.

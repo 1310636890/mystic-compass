@@ -1,0 +1,91 @@
+{{ define "schema" }}
+{{ $s1 := .Params.slug1 }}
+{{ $s2 := .Params.slug2 }}
+{{ $platforms := .Site.Data.fengshui_platforms.platforms }}
+{{ $p1 := index (where $platforms "slug" $s1) 0 }}
+{{ $p2 := index (where $platforms "slug" $s2) 0 }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ $p1.name }} vs {{ $p2.name }}",
+  "description": "Comparison of {{ $p1.name }} ({{ $p1.ratings.overall }}/10) vs {{ $p2.name }} ({{ $p2.ratings.overall }}/10) — commissions, features, ratings.",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "about": [
+    { "@type": "Thing", "name": "{{ $p1.name }}" },
+    { "@type": "Thing", "name": "{{ $p2.name }}" }
+  ]
+}
+</script>
+{{ end }}
+{{ define "title" }}{{ .Params.name1 }} vs {{ .Params.name2 }}: Which Feng Shui Platform Is Better? (2025){{ end }}
+{{ define "main" }}
+{{ $platforms := .Site.Data.fengshui_platforms.platforms }}
+{{ $p1 := index (where $platforms "slug" .Params.slug1) 0 }}
+{{ $p2 := index (where $platforms "slug" .Params.slug2) 0 }}
+
+<article class="comparison-page">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/">Home</a> &rsaquo; <a href="/vs/">Comparisons</a> &rsaquo; {{ $p1.name }} vs {{ $p2.name }}
+    </nav>
+
+    <header class="comparison-header">
+      <h1>{{ $p1.name }} vs {{ $p2.name }}</h1>
+      <p class="affiliate-disclosure">We may earn a commission if you purchase through our links.</p>
+    </header>
+
+    <section class="verdict-box">
+      {{ .Content }}
+    </section>
+
+    <section class="head-to-head">
+      <h2>Head-to-Head</h2>
+      <table class="comparison-table">
+        <thead>
+          <tr><th>Feature</th><th>{{ $p1.name }}</th><th>{{ $p2.name }}</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Rating</strong></td><td>{{ $p1.ratings.overall }}/10</td><td>{{ $p2.ratings.overall }}/10</td></tr>
+          <tr><td><strong>Category</strong></td><td>{{ $p1.category }}</td><td>{{ $p2.category }}</td></tr>
+          <tr><td><strong>Commission</strong></td><td>{{ $p1.affiliate.commission }}%</td><td>{{ $p2.affiliate.commission }}%</td></tr>
+          <tr><td><strong>Cookie</strong></td><td>{{ $p1.affiliate.cookie_days }}d</td><td>{{ $p2.affiliate.cookie_days }}d</td></tr>
+          <tr><td><strong>Price Range</strong></td><td>{{ $p1.pricing.price_range }}</td><td>{{ $p2.pricing.price_range }}</td></tr>
+          <tr><td><strong>Auto-Approve</strong></td><td>{{ if $p1.affiliate.auto_approve }}✅{{ else }}Manual{{ end }}</td><td>{{ if $p2.affiliate.auto_approve }}✅{{ else }}Manual{{ end }}</td></tr>
+          <tr><td><strong>Founded</strong></td><td>{{ $p1.founded }}</td><td>{{ $p2.founded }}</td></tr>
+          <tr><td><strong>HQ</strong></td><td>{{ $p1.headquarters }}</td><td>{{ $p2.headquarters }}</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="pros-cons-compare">
+      <div class="col">
+        <h3>{{ $p1.name }}</h3>
+        {{ if $p1.pros }}
+        <p style="color:#059669;font-weight:600;margin-bottom:.5rem">✅ Pros</p>
+        <ul>{{ range $p1.pros }}<li>{{ . }}</li>{{ end }}</ul>
+        {{ end }}
+        {{ if $p1.cons }}
+        <p style="color:#dc2626;font-weight:600;margin-bottom:.5rem">❌ Cons</p>
+        <ul>{{ range $p1.cons }}<li>{{ . }}</li>{{ end }}</ul>
+        {{ end }}
+      </div>
+      <div class="col">
+        <h3>{{ $p2.name }}</h3>
+        {{ if $p2.pros }}
+        <p style="color:#059669;font-weight:600;margin-bottom:.5rem">✅ Pros</p>
+        <ul>{{ range $p2.pros }}<li>{{ . }}</li>{{ end }}</ul>
+        {{ end }}
+        {{ if $p2.cons }}
+        <p style="color:#dc2626;font-weight:600;margin-bottom:.5rem">❌ Cons</p>
+        <ul>{{ range $p2.cons }}<li>{{ . }}</li>{{ end }}</ul>
+        {{ end }}
+      </div>
+    </section>
+  </div>
+</article>
+{{ end }}
