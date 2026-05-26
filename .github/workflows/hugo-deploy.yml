@@ -1,4 +1,4 @@
-name: Deploy Hugo to Pages
+name: Deploy Hugo to Surge
 
 on:
   push:
@@ -20,16 +20,13 @@ jobs:
           hugo-version: '0.161.1'
           extended: true
 
-      - name: Build
-        run: hugo --minify --baseURL "https://1310636890.github.io/mystic-compass/"
-
-      - name: Disable Jekyll
-        run: touch public/.nojekyll
-
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          force_orphan: true
+          node-version: '22'
+
+      - name: Build
+        run: hugo --minify --baseURL "https://like-chess.surge.sh"
+
+      - name: Deploy to Surge
+        run: npx surge ./public --domain like-chess.surge.sh --token ${{ secrets.SURGE_TOKEN }}
