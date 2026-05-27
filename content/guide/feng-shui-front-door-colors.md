@@ -1,6 +1,6 @@
 ---
 title: "Feng Shui Front Door Colors: What Each Color Means (and Which to Choose)"
-description: "Your front door color affects your home's energy according to Feng Shui. Red for fame, blue for wisdom, green for growth — find the right color for your door's compass direction."
+description: "Your front door color affects your home energy. Use our free Kua Number Calculator to find your personal lucky colors."
 date: "2026-05-26"
 type: "guide"
 author: "Mystic Compass"
@@ -9,6 +9,13 @@ author: "Mystic Compass"
 Your front door is called "the mouth of chi" in Feng Shui. It's where energy enters your home. The color of your door sets the tone for everything that comes in.
 
 This guide covers: what each door color means in Feng Shui, which colors work best for which compass directions, and the practical considerations most guides skip.
+
+
+<div style="padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);text-align:center;margin:2rem 0;">
+  <h2 style="color:#d4a574;margin-bottom:0.5rem;">Try Our Free Kua Number Calculator First</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Find your personal lucky colors based on your Kua number — then pick a front door color that matches.</p>
+  <a href="/tools/kua-number-calculator/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;">Launch Tool →</a>
+</div>
 
 ## The Rule Most People Miss
 
@@ -110,3 +117,22 @@ Security doors, HOAs, and landlords may limit your options. If you can't change 
 ---
 
 *We may earn a commission if you purchase through our links. Check our [product guide](/best/feng-shui-products-home/) for door decorations and entryway items.*
+
+<div style="margin:2rem 0;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:10px;border:1px solid rgba(212,165,116,0.15);">
+  <h3 style="color:#d4a574;">🛒 Recommended Products</h3>
+  <p style="color:#999;font-size:0.9rem;">Based on the principles in this guide. <em>We may earn a commission at no extra cost to you.</em></p>
+  <ul style="color:#aaa;margin-top:1rem;">
+    
+    <li><strong>Red Welcome Mat</strong> — Red is the ultimate auspicious color. A red mat at your entrance invites positive energy.</li>
+    <li><strong>Bagua Mirror for Front Door</strong> — Classic protection above external doors. Octagonal with trigrams.</li>
+    <li><strong>Brass Door Knocker</strong> — Metal element for clarity and protection. Lion head design for authority.</li>
+    <li><strong>Wind Chime for Entryway</strong> — Metal wind chime to activate beneficial energy at your front door.</li>
+
+  </ul>
+</div>
+
+<div style="text-align:center;margin:2.5rem 0;padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);">
+  <h2 style="color:#d4a574;">Get Your Personal Assessment</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Stop guessing. Use our free Kua Number Calculator to get results tailored to you.</p>
+  <a href="/tools/kua-number-calculator/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;font-size:1.1rem;">Try It Free →</a>
+</div>

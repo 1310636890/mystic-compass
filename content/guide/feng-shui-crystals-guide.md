@@ -1,6 +1,6 @@
 ---
 title: "Feng Shui Crystals Guide: Which Crystal Goes Where (and Why)"
-description: "Complete guide to Feng Shui crystals — citrine for wealth, rose quartz for love, amethyst for wisdom. Learn where to place each crystal and which ones actually work."
+description: "Complete guide to Feng Shui crystals — which crystal goes where. Use our free Bagua Map to find your exact placement zones."
 date: "2026-05-26"
 type: "guide"
 author: "Mystic Compass"
@@ -11,6 +11,13 @@ Here's what most crystal guides won't tell you: the crystal itself doesn't do an
 The value of a Feng Shui crystal is 10% the stone and 90% the intention you attach to it. A $5 citrine and a $500 citrine work the same way energetically. Buy what you like looking at.
 
 That said — some crystals are better suited to specific Feng Shui purposes than others. Here's the actual useful information.
+
+
+<div style="padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);text-align:center;margin:2rem 0;">
+  <h2 style="color:#d4a574;margin-bottom:0.5rem;">Try Our Free Bagua Map Tool First</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Find exactly where to place each crystal — overlay the 8 Bagua zones on your room first.</p>
+  <a href="/tools/bagua-map-overlay/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;">Launch Tool →</a>
+</div>
 
 ## The Core 6 Feng Shui Crystals
 
@@ -93,3 +100,23 @@ A crystal hidden in a drawer does nothing. A crystal you see every day — that 
 ---
 
 *We may earn a commission if you purchase through our links.*
+
+<div style="margin:2rem 0;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:10px;border:1px solid rgba(212,165,116,0.15);">
+  <h3 style="color:#d4a574;">🛒 Recommended Products</h3>
+  <p style="color:#999;font-size:0.9rem;">Based on the principles in this guide. <em>We may earn a commission at no extra cost to you.</em></p>
+  <ul style="color:#aaa;margin-top:1rem;">
+    
+    <li><strong>Citrine (Wealth Stone)</strong> — Natural citrine cluster for the wealth zone. Known as the merchant's stone.</li>
+    <li><strong>Rose Quartz (Love Stone)</strong> — Tumbled or raw, place in relationship zone for partnership harmony.</li>
+    <li><strong>Amethyst Geode</strong> — For wisdom and spiritual growth. Ideal for meditation corner or knowledge zone.</li>
+    <li><strong>Black Tourmaline</strong> — Protection crystal. Place near entry doors to block negative energy.</li>
+    <li><strong>Clear Quartz Point</strong> — Amplifier crystal. Program it with intention and place in any Bagua zone.</li>
+
+  </ul>
+</div>
+
+<div style="text-align:center;margin:2.5rem 0;padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);">
+  <h2 style="color:#d4a574;">Get Your Personal Assessment</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Stop guessing. Use our free Bagua Map Tool to get results tailored to you.</p>
+  <a href="/tools/bagua-map-overlay/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;font-size:1.1rem;">Try It Free →</a>
+</div>

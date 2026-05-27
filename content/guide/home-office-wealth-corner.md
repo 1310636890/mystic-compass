@@ -1,10 +1,17 @@
 ---
 title: "Home Office Wealth Corner: Feng Shui for Remote Workers & Entrepreneurs"
-description: "Set up your home office wealth corner using Feng Shui. Boost productivity, attract opportunities, and stop feeling stuck in your remote work setup."
+description: "Set up your home office wealth corner using Feng Shui. Use our free Flying Star Chart and Bagua Map to find your exact wealth zone."
 date: "2026-05-26"
 type: "guide"
 author: "Mystic Compass"
 ---
+
+
+<div style="padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);text-align:center;margin:2rem 0;">
+  <h2 style="color:#d4a574;margin-bottom:0.5rem;">Try Our Free Flying Star Chart + Bagua Map First</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Check your 2026 Flying Stars for wealth stars + overlay the Bagua Map on your office floor plan.</p>
+  <a href="/tools/flying-star-chart/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;">Launch Tool →</a>
+</div>
 
 ## The Problem with Most Home Offices
 
@@ -123,3 +130,23 @@ Whether you call it Feng Shui or environmental psychology, the result is the sam
 ---
 
 *We may earn a commission if you purchase through our links.*
+
+<div style="margin:2rem 0;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:10px;border:1px solid rgba(212,165,116,0.15);">
+  <h3 style="color:#d4a574;">🛒 Recommended Products</h3>
+  <p style="color:#999;font-size:0.9rem;">Based on the principles in this guide. <em>We may earn a commission at no extra cost to you.</em></p>
+  <ul style="color:#aaa;margin-top:1rem;">
+    
+    <li><strong>Laughing Buddha Statue</strong> — Classic wealth symbol. Place on your desk facing the door to welcome prosperity.</li>
+    <li><strong>Three-Legged Toad (Chan Chu)</strong> — Place near your office entrance facing inward to attract money.</li>
+    <li><strong>Citrine Crystal Tree</strong> — A small gemstone tree on your desk. Citrine is the stone of abundance and success.</li>
+    <li><strong>Chinese Coins (Tied with Red Ribbon)</strong> — 3 or 6 coins tied together. Place in your wealth corner or cash box.</li>
+    <li><strong>Water Fountain (Small Desktop)</strong> — Flowing water symbolizes money flow. Ensure it flows TOWARD your workspace.</li>
+
+  </ul>
+</div>
+
+<div style="text-align:center;margin:2.5rem 0;padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);">
+  <h2 style="color:#d4a574;">Get Your Personal Assessment</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Stop guessing. Use our free Flying Star Chart to get results tailored to you.</p>
+  <a href="/tools/flying-star-chart/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;font-size:1.1rem;">Try It Free →</a>
+</div>

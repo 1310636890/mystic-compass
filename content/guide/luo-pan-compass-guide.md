@@ -1,6 +1,6 @@
 ---
 title: "How to Use a Luo Pan Compass: A Complete Beginner's Guide"
-description: "Learn to read a Luo Pan compass. The rings explained, how to take a direction reading, and which Luo Pan to buy as a beginner. Step-by-step with no prior knowledge needed."
+description: "Learn to read a Luo Pan compass. Try all our free Feng Shui tools (Kua Number, Flying Star, Bagua Map) that use directional readings."
 date: "2026-05-26"
 type: "guide"
 author: "Mystic Compass"
@@ -9,6 +9,13 @@ author: "Mystic Compass"
 A Luo Pan (罗盘) looks intimidating. Twenty-plus concentric rings. Chinese characters you can't read. Symbols that look like they belong in an ancient temple.
 
 But here's the thing: **for most Feng Shui purposes, you only need to use 2-3 of those rings.** The rest are for advanced practitioners doing things like date selection, astrological calculations, and landform analysis. You don't need any of that to find your home's directions.
+
+
+<div style="padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);text-align:center;margin:2rem 0;">
+  <h2 style="color:#d4a574;margin-bottom:0.5rem;">Try Our Free All Feng Shui Tools First</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Our tools use the same directional principles. Try the Kua Calculator, Flying Star Chart, or Bagua Map.</p>
+  <a href="/tools/kua-number-calculator/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;">Launch Tool →</a>
+</div>
 
 ## What Is a Luo Pan?
 
@@ -91,3 +98,22 @@ If you're just starting: use a phone app. It's free. Upgrade to a real Luo Pan i
 ---
 
 *We may earn a commission if you purchase through our links.*
+
+<div style="margin:2rem 0;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:10px;border:1px solid rgba(212,165,116,0.15);">
+  <h3 style="color:#d4a574;">🛒 Recommended Products</h3>
+  <p style="color:#999;font-size:0.9rem;">Based on the principles in this guide. <em>We may earn a commission at no extra cost to you.</em></p>
+  <ul style="color:#aaa;margin-top:1rem;">
+    
+    <li><strong>Professional Luo Pan Compass (8-inch)</strong> — Multi-ring compass with 24 mountains and 64 hexagrams. For serious practitioners.</li>
+    <li><strong>Beginner Luo Pan (4-inch)</strong> — Simplified version with Heaven Pool, 8 Trigrams, and 24 Mountains. Perfect entry point.</li>
+    <li><strong>Digital Feng Shui Compass App Alternative</strong> — While not traditional, smartphone compass apps help when a physical Luo Pan isn't available.</li>
+    <li><strong>Compass Stand / Tripod</strong> — Keeps your Luo Pan level for accurate readings. Essential for professional use.</li>
+
+  </ul>
+</div>
+
+<div style="text-align:center;margin:2.5rem 0;padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);">
+  <h2 style="color:#d4a574;">Get Your Personal Assessment</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Stop guessing. Use our free Kua Number Calculator to get results tailored to you.</p>
+  <a href="/tools/kua-number-calculator/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;font-size:1.1rem;">Try It Free →</a>
+</div>

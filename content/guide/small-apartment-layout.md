@@ -1,10 +1,17 @@
 ---
 title: "Feng Shui for Small Apartments: Layout Tips for Studios & Rentals"
-description: "Maximize your small apartment or studio with Feng Shui layout tips. No major renovations — practical fixes for renters that actually work."
+description: "Maximize your small apartment with Feng Shui. Use our free Bagua Map to overlay 8 life zones on your studio floor plan."
 date: "2026-05-26"
 type: "guide"
 author: "Mystic Compass"
 ---
+
+
+<div style="padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);text-align:center;margin:2rem 0;">
+  <h2 style="color:#d4a574;margin-bottom:0.5rem;">Try Our Free Bagua Map Tool First</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Overlay the 8 Bagua zones on your small space — even a studio can have all 8 life areas mapped correctly.</p>
+  <a href="/tools/bagua-map-overlay/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;">Launch Tool →</a>
+</div>
 
 ## Small Space, Big Energy
 
@@ -128,3 +135,22 @@ For small apartments, a distance consultation often works better than in-person 
 ---
 
 *We may earn a commission if you purchase through our links.*
+
+<div style="margin:2rem 0;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:10px;border:1px solid rgba(212,165,116,0.15);">
+  <h3 style="color:#d4a574;">🛒 Recommended Products</h3>
+  <p style="color:#999;font-size:0.9rem;">Based on the principles in this guide. <em>We may earn a commission at no extra cost to you.</em></p>
+  <ul style="color:#aaa;margin-top:1rem;">
+    
+    <li><strong>Folding Room Divider Screen</strong> — Create visual separation between zones without walls. Bamboo or wood for natural energy.</li>
+    <li><strong>Multi-Function Furniture</strong> — Ottomans with storage, fold-down desks. Clutter-free = chi flows freely.</li>
+    <li><strong>Wall Mirrors (Full Length)</strong> — Expand visual space and reflect light. Place to double the view of a nice area (NOT reflecting clutter).</li>
+    <li><strong>Small Air-Purifying Plants</strong> — Compact snake plant or pothos. They clean air and add wood element energy without taking floor space.</li>
+
+  </ul>
+</div>
+
+<div style="text-align:center;margin:2.5rem 0;padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);">
+  <h2 style="color:#d4a574;">Get Your Personal Assessment</h2>
+  <p style="color:#aaa;margin-bottom:1rem;">Stop guessing. Use our free Bagua Map Tool to get results tailored to you.</p>
+  <a href="/tools/bagua-map-overlay/" style="display:inline-block;padding:0.8rem 2rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:8px;font-weight:bold;font-size:1.1rem;">Try It Free →</a>
+</div>
