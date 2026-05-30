@@ -7,6 +7,64 @@ layout: "tool"
 slug: "kua-number-calculator"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is my Kua number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your Kua number is a personal Feng Shui number calculated from your birth year and gender. It ranges from 1 to 9 (5 splits into 2 for males and 8 for females). Use our free Kua Number Calculator above to find yours instantly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate my Kua number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Add the last two digits of your birth year. If the sum is two digits, add those together until you get a single digit. Males subtract from 10; females add 5 (then reduce to single digit). For years after 2000, males subtract from 9 and females add 6. Our calculator does this automatically."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the 4 lucky directions for my Kua number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sheng Chi (wealth), Tian Yi (health), Yan Nian (relationships), and Fu Wei (stability). Each Kua number has a specific compass direction for each. Use our calculator to get your exact directions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Kua numbers are East Group?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kua numbers 1, 3, 4, and 9 belong to the East Group. Their lucky directions are East, Southeast, South, and North."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Kua numbers are West Group?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kua numbers 2, 6, 7, and 8 belong to the West Group. Their lucky directions are West, Northwest, Southwest, and Northeast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What colors match my Kua number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kua 1: black, dark blue. Kua 2/8: yellow, beige, earth tones. Kua 3/4: green, brown. Kua 6/7: white, gold, silver. Kua 9: red, purple. Wear and decorate with your element's colors."
+      }
+    }
+  ]
+}
+</script>
+
+
 <style>
 .kua-tool { max-width: 680px; margin: 0 auto; font-family: system-ui, -apple-system, sans-serif; }
 .kua-tool .input-group { margin-bottom: 1.2rem; }

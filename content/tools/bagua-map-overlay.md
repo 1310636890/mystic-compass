@@ -7,6 +7,48 @@ layout: "tool"
 slug: "bagua-map-overlay"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I overlay a Bagua map on my floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stand at your front door facing into the room. Align the Career (Kan/Water) zone with the wall containing the door. Overlay the 8 zones clockwise: Career → Knowledge → Family → Wealth → Fame → Relationships → Creativity → Helpful People. Use our free Bagua Map tool to do this digitally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Bagua wealth corner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The wealth corner (Xun) is the far-left corner from your front door, facing in. It's associated with prosperity, abundance, and financial flow. Activate it with purple, gold, living plants, and moving water."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the love corner in Bagua?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The love and relationships corner (Kun) is the far-right corner from your front door, facing in. Use pairs of objects, rose quartz, pink decor, and soft lighting here."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the 8 Bagua areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Career (North), Knowledge (Northeast), Family (East), Wealth (Southeast), Fame (South), Relationships (Southwest), Creativity (West), Helpful People (Northwest). Each governs a different life area."
+      }
+    }
+  ]
+}
+</script>
+
+
 <style>
 .bagua-tool { max-width: 720px; margin: 0 auto; font-family: system-ui, sans-serif; }
 .bagua-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 5px; margin-bottom: 1.5rem; }

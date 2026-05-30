@@ -1,0 +1,183 @@
+# Mystic Compass PSEO Content Data
+# 2026-05-30 — Programmatic SEO generation pipeline
+# 
+# Structure:
+#   faq_groups  → FAQ pages targeting People Also Ask
+#   blog_topics → Blog posts from keyword research
+#   guide_pages → Extended guide pages from long-tail keywords
+#   tools       → Tool pages with FAQ schema injection
+
+faq_groups:
+  - tool: kua-number-calculator
+    target_page: /tools/kua-number-calculator/
+    questions:
+      - q: "What is my Kua number?"
+        a: "Your Kua number is a personal Feng Shui number calculated from your birth year and gender. It ranges from 1 to 9 (5 splits into 2 for males and 8 for females). Use our free Kua Number Calculator above to find yours instantly."
+      - q: "How do I calculate my Kua number?"
+        a: "Add the last two digits of your birth year. If the sum is two digits, add those together until you get a single digit. Males subtract from 10; females add 5 (then reduce to single digit). For years after 2000, males subtract from 9 and females add 6. Our calculator does this automatically."
+      - q: "What are the 4 lucky directions for my Kua number?"
+        a: "Sheng Chi (wealth), Tian Yi (health), Yan Nian (relationships), and Fu Wei (stability). Each Kua number has a specific compass direction for each. Use our calculator to get your exact directions."
+      - q: "Which Kua numbers are East Group?"
+        a: "Kua numbers 1, 3, 4, and 9 belong to the East Group. Their lucky directions are East, Southeast, South, and North."
+      - q: "Which Kua numbers are West Group?"
+        a: "Kua numbers 2, 6, 7, and 8 belong to the West Group. Their lucky directions are West, Northwest, Southwest, and Northeast."
+      - q: "What colors match my Kua number?"
+        a: "Kua 1: black, dark blue. Kua 2/8: yellow, beige, earth tones. Kua 3/4: green, brown. Kua 6/7: white, gold, silver. Kua 9: red, purple. Wear and decorate with your element's colors."
+
+  - tool: flying-star-chart
+    target_page: /tools/flying-star-chart/
+    questions:
+      - q: "What is the Flying Star chart for 2026?"
+        a: "The 2026 Flying Star chart shows where the 9 energy stars land in your home this year. Star 1 (white) is in Southeast, Star 8 (wealth) is in South, and Star 5 (misfortune) is in Northeast. Use our free chart tool to see all 9 positions."
+      - q: "Which Flying Star brings wealth in 2026?"
+        a: "Star 8 (white) is the wealth star. In 2026 it sits in the South sector. Activate this area with earth-element items like crystals, yellow decor, or ceramic objects."
+      - q: "How do I fix bad Flying Stars?"
+        a: "Each negative star has a remedy: Star 2 (illness) needs metal — 6-rod wind chimes. Star 5 (misfortune) needs metal + stillness — avoid noisy activities in that sector. Star 3 (conflict) needs fire — red items or lighting."
+      - q: "What does Star 5 mean in Flying Star?"
+        a: "Star 5 (yellow misfortune) is the most challenging annual star. It brings obstacles, illness, and financial trouble. In 2026 it occupies Northeast. Keep this area quiet, add metal elements, and avoid renovations here."
+
+  - tool: bagua-map-overlay
+    target_page: /tools/bagua-map-overlay/
+    questions:
+      - q: "How do I overlay a Bagua map on my floor plan?"
+        a: "Stand at your front door facing into the room. Align the Career (Kan/Water) zone with the wall containing the door. Overlay the 8 zones clockwise: Career → Knowledge → Family → Wealth → Fame → Relationships → Creativity → Helpful People. Use our free Bagua Map tool to do this digitally."
+      - q: "What is the Bagua wealth corner?"
+        a: "The wealth corner (Xun) is the far-left corner from your front door, facing in. It's associated with prosperity, abundance, and financial flow. Activate it with purple, gold, living plants, and moving water."
+      - q: "Where is the love corner in Bagua?"
+        a: "The love and relationships corner (Kun) is the far-right corner from your front door, facing in. Use pairs of objects, rose quartz, pink decor, and soft lighting here."
+      - q: "What are the 8 Bagua areas?"
+        a: "Career (North), Knowledge (Northeast), Family (East), Wealth (Southeast), Fame (South), Relationships (Southwest), Creativity (West), Helpful People (Northwest). Each governs a different life area."
+
+blog_topics:
+  # Phase 1: High-volume informational keywords
+  - keyword: "feng shui for beginners"
+    volume: 8100
+    difficulty: medium
+    slug: feng-shui-for-beginners
+    title: "Feng Shui for Beginners: 7 Things to Do First (2026 Guide)"
+    description: "Start your Feng Shui journey with these 7 simple steps. No crystals, no compass — just practical changes you can make today. Free Kua Number Calculator included."
+    target_tool: /tools/kua-number-calculator/
+    sections:
+      - heading: "Start with Your Front Door"
+      - heading: "Find Your Kua Number"
+      - heading: "Clear the Clutter"
+      - heading: "Fix Your Bed Position"
+      - heading: "Add the 5 Elements"
+      - heading: "Check Your Wealth Corner"
+      - heading: "What NOT to Do"
+
+  - keyword: "feng shui tips for wealth"
+    volume: 6600
+    difficulty: medium
+    slug: feng-shui-tips-for-wealth
+    title: "Feng Shui Tips for Wealth: Where to Put Your Money Corner (2026)"
+    description: "8 proven Feng Shui wealth tips. Find your money corner with our free Bagua Map tool, learn what to place there, and what to remove immediately."
+    target_tool: /tools/bagua-map-overlay/
+    sections:
+      - heading: "Find Your Wealth Corner in 30 Seconds"
+      - heading: "The #1 Wealth Activation Item"
+      - heading: "Colors That Attract Money"
+      - heading: "What to REMOVE From Your Wealth Zone"
+      - heading: "2026 Flying Star Wealth Position"
+      - heading: "Daily Wealth Rituals"
+      - heading: "Wealth Corner Mistakes"
+      - heading: "Real Results: What Changed"
+
+  - keyword: "2026 feng shui predictions"
+    volume: 4800
+    difficulty: medium
+    slug: 2026-feng-shui-predictions
+    title: "2026 Feng Shui Predictions: Flying Star Guide for Every Room"
+    description: "Complete 2026 Flying Star forecast. Which rooms bring luck, which need remedies, and exactly what to do in each sector."
+    target_tool: /tools/flying-star-chart/
+    sections:
+      - heading: "2026 Flying Stars at a Glance"
+      - heading: "Wealth Sector (South) — Star 8"
+      - heading: "Danger Zone (Northeast) — Star 5"
+      - heading: "Health Sector (North) — Star 2"
+      - heading: "Romance Sector (East) — Star 4"
+      - heading: "Conflict Zone (Northwest) — Star 3"
+      - heading: "Remedies by Sector"
+      - heading: "Month-by-Month Flying Star Changes"
+
+  - keyword: "feng shui bedroom layout"
+    volume: 5400
+    difficulty: low
+    slug: feng-shui-bedroom-layout
+    title: "Feng Shui Bedroom Layout: Where to Put Your Bed for Better Sleep"
+    description: "The complete guide to Feng Shui bedroom design. Bed placement, mirror rules, colors, and which direction to sleep for your Kua number."
+    target_tool: /tools/kua-number-calculator/
+    sections:
+      - heading: "Command Position: The One Rule That Matters"
+      - heading: "Mirrors in the Bedroom: Yes or No?"
+      - heading: "Best Bed Direction for Your Kua Number"
+      - heading: "Colors for Restful Sleep"
+      - heading: "What Goes on Your Nightstand"
+      - heading: "Electronics: The Sleep Killer"
+      - heading: "Small Bedroom Solutions"
+
+  - keyword: "feng shui colors meaning"
+    volume: 3600
+    difficulty: low
+    slug: feng-shui-colors-meaning
+    title: "Feng Shui Colors Meaning: Complete Guide to the 5 Elements"
+    description: "What each Feng Shui color means, which element it belongs to, and where to use it. Match colors to your Kua number for maximum effect."
+    target_tool: /tools/kua-number-calculator/
+    sections:
+      - heading: "The 5 Elements Color Chart"
+      - heading: "Fire Element Colors: Red, Purple, Orange"
+      - heading: "Earth Element Colors: Yellow, Brown, Beige"
+      - heading: "Metal Element Colors: White, Gold, Silver"
+      - heading: "Water Element Colors: Black, Dark Blue"
+      - heading: "Wood Element Colors: Green, Teal"
+      - heading: "Color by Room: Where to Use Each"
+      - heading: "Your Kua Number's Best Colors"
+
+  - keyword: "how to use feng shui compass"
+    volume: 1600
+    difficulty: low
+    slug: how-to-use-feng-shui-compass
+    title: "How to Use a Feng Shui Compass (Luo Pan): Complete Beginner Guide"
+    description: "Learn to read a Luo Pan compass. Understand the 24 mountains, how to take readings, and what each ring means. Free Bagua Map tool to practice."
+    target_tool: /tools/bagua-map-overlay/
+    sections:
+      - heading: "Luo Pan vs Phone Compass"
+      - heading: "How to Take a Reading"
+      - heading: "The 24 Mountains Explained"
+      - heading: "What Each Ring Tells You"
+      - heading: "Common Compass Mistakes"
+      - heading: "Practice with Our Bagua Tool"
+
+guide_pages:
+  # Long-tail guide pages for niche audiences
+  - keyword: "feng shui for small apartment"
+    volume: 800
+    difficulty: low
+    slug: small-apartment-feng-shui-tips
+    title: "Small Apartment Feng Shui: 6 Rules That Work in Tiny Spaces"
+    description: "You don't need a mansion to apply Feng Shui. 6 rules for studio apartments, small bedrooms, and tight layouts."
+    target_tool: /tools/bagua-map-overlay/
+
+  - keyword: "feng shui desk direction for success"
+    volume: 900
+    difficulty: low
+    slug: best-desk-direction-feng-shui
+    title: "Best Desk Direction for Success: Feng Shui Your Workspace"
+    description: "Which way should your desk face? Find your Sheng Chi direction and set up your workspace for focus and career growth."
+    target_tool: /tools/kua-number-calculator/
+
+  - keyword: "feng shui front door facing direction"
+    volume: 2900
+    difficulty: low
+    slug: feng-shui-front-door-direction
+    title: "Feng Shui Front Door Direction: What Yours Means & How to Fix It"
+    description: "Your front door direction determines your home's energy. Learn what each facing means and 5 simple fixes for bad directions."
+    target_tool: /tools/flying-star-chart/
+
+  - keyword: "feng shui mirror placement rules"
+    volume: 2400
+    difficulty: low
+    slug: feng-shui-mirror-placement-rules
+    title: "Feng Shui Mirror Placement: 10 Rules You're Probably Breaking"
+    description: "Mirrors can double your wealth or drain your energy. Exactly where to put them — and where they should NEVER go."
+    target_tool: /tools/bagua-map-overlay/

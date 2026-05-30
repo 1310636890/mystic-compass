@@ -7,6 +7,48 @@ layout: "tool"
 slug: "flying-star-chart"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Flying Star chart for 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2026 Flying Star chart shows where the 9 energy stars land in your home this year. Star 1 (white) is in Southeast, Star 8 (wealth) is in South, and Star 5 (misfortune) is in Northeast. Use our free chart tool to see all 9 positions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Flying Star brings wealth in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Star 8 (white) is the wealth star. In 2026 it sits in the South sector. Activate this area with earth-element items like crystals, yellow decor, or ceramic objects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I fix bad Flying Stars?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each negative star has a remedy: Star 2 (illness) needs metal — 6-rod wind chimes. Star 5 (misfortune) needs metal + stillness — avoid noisy activities in that sector. Star 3 (conflict) needs fire — red items or lighting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does Star 5 mean in Flying Star?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Star 5 (yellow misfortune) is the most challenging annual star. It brings obstacles, illness, and financial trouble. In 2026 it occupies Northeast. Keep this area quiet, add metal elements, and avoid renovations here."
+      }
+    }
+  ]
+}
+</script>
+
+
 <style>
 .fs-tool { max-width: 720px; margin: 0 auto; font-family: system-ui, sans-serif; }
 .fs-tool .orient-bar { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1.5rem; justify-content: center; }
