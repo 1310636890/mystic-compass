@@ -70,7 +70,7 @@ slug: "bagua-map-overlay"
 
   <div class="cta-box">
     <p style="margin:0 0 0.5rem;"><strong>Want to activate your Bagua?</strong> Crystals, plants, and mirrors for every zone.</p>
-    <a href="/reviews/fengshui-world/">Shop Feng Shui World → 500+ items, 35% commission</a>
+    <a href="/best/feng-shui-products-home/">Shop Feng Shui Mall → 10% commission + 180-day cookie, authentic Feng Shui products</a>
   </div>
 </div>
 
@@ -232,7 +232,7 @@ function openModal(pos) {
       </div>
     </div>
     ${roomWarning ? `<div class="room-warning" style="display:block">${roomWarning}</div>` : ''}
-    <p style="margin-top:1rem;font-size:0.85rem;"><a href="/reviews/fengshui-world/" style="color:#c9a84c;">🛒 Get ${d.element} element items at Feng Shui World</a></p>
+    <p style="margin-top:1rem;font-size:0.85rem;"><a href="/best/feng-shui-products-home/" style="color:#c9a84c;">🛒 Get ${d.element} element items at Feng Shui Mall</a></p>
   `;
   document.getElementById('bagua-modal').classList.add('show');
 }

@@ -80,7 +80,7 @@ A high-quality fake plant is better than a dead real one. Fake plants don't prov
 
 ## Where to Buy
 
-- **[Feng Shui World](https://www.fengshuiworld.com)** — Crystals, pots, and Feng Shui-specific planters. Ships worldwide.
+- **[Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass)** — Crystals, pots, and Feng Shui-specific planters. Ships worldwide.
 - **[Buy-FengShui.com](https://www.buy-fengshui.com)** — US-based, faster shipping for planters and decor.
 - Local nursery for the actual plants. Don't ship plants across the ocean.
 

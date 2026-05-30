@@ -88,7 +88,7 @@ Crystals are one of the few Feng Shui items where authenticity matters less than
 
 That said, if you want genuine stones from a store that vets its sources:
 
-- **[Feng Shui World](https://www.fengshuiworld.com)** — Largest selection, ships worldwide, 35% commission
+- **[Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass)** — Largest selection, ships worldwide, 10% commission + 180-day cookie
 - **[Unique Feng Shui](https://www.uniquefengshui.com)** — Best-curated crystal collection, better photos for content creators
 
 ## The One Rule That Matters

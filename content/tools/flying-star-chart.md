@@ -76,7 +76,7 @@ slug: "flying-star-chart"
 
   <div class="cta-box">
     <p style="margin:0 0 0.5rem;">🔮 <strong>Need remedies?</strong> Crystals, Bagua mirrors, and wind chimes for every Flying Star.</p>
-    <a href="/reviews/fengshui-world/">Shop Feng Shui World → 35% commission, 500+ items</a>
+    <a href="/best/feng-shui-products-home/">Shop Feng Shui Mall → 10% commission + 180-day cookie, authentic Feng Shui products</a>
   </div>
 </div>
 
@@ -164,7 +164,7 @@ function showDetail(pos) {
     }</strong></p>
     <div class="fs-remedy">${d.advice}</div>
     <p style="margin-top:0.8rem;font-size:0.85rem;">
-      <a href="/reviews/fengshui-world/" style="color:#c9a84c;">🛒 Get ${d.aff} remedies at Feng Shui World (35% commission)</a>
+      <a href="/best/feng-shui-products-home/" style="color:#c9a84c;">🛒 Get ${d.aff} remedies at Feng Shui Mall (10% commission + 180-day cookie)</a>
     </p>
   `;
   detail.classList.add('show');

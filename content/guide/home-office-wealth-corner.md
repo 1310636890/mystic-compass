@@ -107,8 +107,8 @@ If you want to set this up properly, here's where to start:
 
 | Need | Recommendation | Why |
 |------|---------------|-----|
-| Crystals & decor | [Feng Shui World](https://www.fengshuiworld.com) | 500+ authentic items, ships worldwide |
-| Compass for Bagua | [Feng Shui World](https://www.fengshuiworld.com) | Professional Luo Pan compass |
+| Crystals & decor | [Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass) | Authentic Feng Shui products, ships worldwide, 180-day cookie |
+| Compass for Bagua | [Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass) | Professional Luo Pan compass |
 | Full consultation | [Feng Shui Online](https://www.fengshuionline.com) | Professional distance analysis |
 
 > 🏠 Check our [best Feng Shui products for home](/best/feng-shui-products-home/) for a full comparison of stores.

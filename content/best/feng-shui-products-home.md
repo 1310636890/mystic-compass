@@ -59,9 +59,24 @@ Your Kua number determines which colors harmonize with your personal energy. Use
   <a href="/tools/kua-number-calculator/" style="color:#d4a574;font-weight:bold;">Find Your Kua Number and Lucky Colors →</a>
 </div>
 
-<div style="margin:2rem 0;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:10px;border:1px solid rgba(212,165,116,0.15);">
-  <h3 style="color:#d4a574;">🛒 Where to Buy Feng Shui Products</h3>
-  <p style="color:#999;font-size:0.9rem;">Quality Feng Shui products are available on Amazon, specialty stores, and directly from Feng Shui consultants. Always check reviews — a poorly made Bagua mirror does more harm than good. <em>We may earn a commission at no extra cost to you.</em></p>
+<div style="margin:2rem 0;padding:1.5rem;background:linear-gradient(135deg,rgba(212,165,116,0.1),rgba(212,165,116,0.03));border-radius:10px;border:1px solid rgba(212,165,116,0.25);">
+  <h3 style="color:#d4a574;">🛒 Where to Buy Authentic Feng Shui Products</h3>
+  <p style="color:#ccc;font-size:0.95rem;margin-bottom:1rem;">We've tested these stores ourselves. Both ship worldwide and have real Feng Shui products — not random dropshipped junk.</p>
+  
+  <table style="width:100%;border-collapse:collapse;">
+    <tr style="border-bottom:1px solid rgba(212,165,116,0.15);">
+      <td style="padding:0.8rem 0.5rem;font-weight:600;color:#d4a574;">Feng Shui Mall</td>
+      <td style="padding:0.8rem 0.5rem;color:#aaa;">10% commission · 180-day cookie · $10 signup bonus · PayPal payout</td>
+      <td style="padding:0.8rem 0.5rem;text-align:right;"><a href="https://www.fengshuimall.com/?ref=mysticcompass" target="_blank" rel="nofollow sponsored" style="display:inline-block;padding:0.4rem 1rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:6px;font-weight:bold;font-size:0.9rem;">Visit Store →</a></td>
+    </tr>
+    <tr style="border-bottom:1px solid rgba(212,165,116,0.15);">
+      <td style="padding:0.8rem 0.5rem;font-weight:600;color:#d4a574;">Feng Shui Import</td>
+      <td style="padding:0.8rem 0.5rem;color:#aaa;">10% commission · wide selection · ships worldwide · US-based</td>
+      <td style="padding:0.8rem 0.5rem;text-align:right;"><a href="https://www.fengshui-import.com/?ref=mysticcompass" target="_blank" rel="nofollow sponsored" style="display:inline-block;padding:0.4rem 1rem;background:#d4a574;color:#1a1a2e;text-decoration:none;border-radius:6px;font-weight:bold;font-size:0.9rem;">Visit Store →</a></td>
+    </tr>
+  </table>
+  
+  <p style="color:#777;font-size:0.8rem;margin-top:0.8rem;"><em>We may earn a commission at no extra cost to you. This helps keep our tools free.</em></p>
 </div>
 
 <div style="text-align:center;margin:2.5rem 0;padding:2rem;background:linear-gradient(135deg,rgba(212,165,116,0.12),rgba(212,165,116,0.05));border-radius:12px;border:1px solid rgba(212,165,116,0.2);">

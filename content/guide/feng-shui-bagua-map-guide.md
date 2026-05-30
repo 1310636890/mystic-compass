@@ -26,7 +26,7 @@ This works for most homes. It's simple and doesn't require a compass.
 
 ### Method 2: The Compass Method (More Precise)
 
-This uses actual compass directions. You need a compass — either a phone app or a [real Luo Pan](https://www.fengshuiworld.com).
+This uses actual compass directions. You need a compass — either a phone app or a [real Luo Pan](https://www.fengshuimall.com/?ref=mysticcompass).
 
 1. Stand in the center of your home with a compass
 2. Find north
@@ -143,7 +143,7 @@ Travel, mentors, networking, and "luck" in meeting the right people. What to put
 
 ## What to Buy
 
-A [Luo Pan compass](https://www.fengshuiworld.com) is the one tool worth getting. Phone compass apps work for the basic method, but a real Luo Pan gives you more precise directional readings and includes the 24 mountains (advanced Bagua divisions).
+A [Luo Pan compass](https://www.fengshuimall.com/?ref=mysticcompass) is the one tool worth getting. Phone compass apps work for the basic method, but a real Luo Pan gives you more precise directional readings and includes the 24 mountains (advanced Bagua divisions).
 
 ---
 

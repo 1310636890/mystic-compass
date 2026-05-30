@@ -99,7 +99,7 @@ The art above your bed influences your subconscious for 8 hours every night. Cho
 
 If you want to go deeper:
 
-- **[Feng Shui World](https://www.fengshuiworld.com)** — Rose quartz, amethyst, and matching bedside lamps. 35% commission.
+- **[Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass)** — Rose quartz, amethyst, and matching bedside lamps. 10% commission + 180-day cookie.
 - **[Buy-FengShui.com](https://www.buy-fengshui.com)** — US-based, faster shipping for bedroom decor items.
 - **[Feng Shui Online](https://www.fengshuionline.com)** — Get a professional bedroom analysis if you want it done right.
 

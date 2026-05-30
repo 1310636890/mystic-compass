@@ -108,8 +108,8 @@ Feng Shui values natural light as the best energy source. For gamers, this means
 
 If you're interested in the deeper principles, here's what actually matters:
 
-- **[Luo Pan Compass](https://www.fengshuiworld.com)** — A traditional Feng Shui compass. Useful if you want to calculate your desk's exact facing direction for the Bagua map.
-- **[Natural Crystals](https://www.fengshuiworld.com)** — Clear quartz on your desk won't magically make you a better gamer, but it does make a clean, intentional focal point. The ritual of placing it reminds you to focus.
+- **[Luo Pan Compass](https://www.fengshuimall.com/?ref=mysticcompass)** — A traditional Feng Shui compass. Useful if you want to calculate your desk's exact facing direction for the Bagua map.
+- **[Natural Crystals](https://www.fengshuimall.com/?ref=mysticcompass)** — Clear quartz on your desk won't magically make you a better gamer, but it does make a clean, intentional focal point. The ritual of placing it reminds you to focus.
 
 > 💡 **Bottom line:** You don't need to "believe" in Feng Shui to benefit from it. Most of it is just good ergonomics and environmental psychology dressed in 3,000-year-old packaging.
 

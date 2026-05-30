@@ -75,8 +75,8 @@ slug: "kua-number-calculator"
 
   <div class="cta-box" style="margin-top:2rem;">
     <p style="margin:0;font-size:0.9rem;">
-      📿 <a href="/reviews/fengshui-world/">Get Kua-compatible crystals & compasses</a> — 
-      Feng Shui World pays <strong>35% commission</strong>
+      📿 <a href="/best/feng-shui-products-home/">Get Kua-compatible crystals & compasses</a> — 
+      Feng Shui Mall pays <strong>10% commission + 180-day cookie</strong>
     </p>
   </div>
 </div>

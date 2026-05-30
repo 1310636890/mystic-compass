@@ -81,7 +81,7 @@ In classical Feng Shui, the stove is the "wealth generator" of the home. Its fac
 
 For beginners, a basic 9-12 inch Luo Pan with English markings is ideal. Don't buy the $50 ones on Amazon — they're toys with inaccurate needles.
 
-- **[Feng Shui World](https://www.fengshuiworld.com)** — Sells professional-grade Luo Pan compasses. Ships worldwide. 35% commission.
+- **[Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass)** — Sells professional-grade Luo Pan compasses. Ships worldwide. 10% commission + 180-day cookie.
 - **Price range:** $80-300 for a functional Luo Pan. $300+ for professional models with all rings.
 
 Start with a basic one. If you get serious, upgrade later. A $100 Luo Pan does 90% of what a $500 one does for home use.

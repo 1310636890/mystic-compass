@@ -116,9 +116,9 @@ Leaky faucet = money "draining." Squeaky door = irritations building up. Fixing 
 
 | Product | Why | Where |
 |---------|-----|-------|
-| Small Luo Pan compass | Find your Bagua directions | [Feng Shui World](https://www.fengshuiworld.com) |
-| Bagua mirror | Above door for protection | [Feng Shui World](https://www.fengshuiworld.com) |
-| Small citrine crystal | Wealth corner activation | [Feng Shui World](https://www.fengshuiworld.com) |
+| Small Luo Pan compass | Find your Bagua directions | [Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass) |
+| Bagua mirror | Above door for protection | [Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass) |
+| Small citrine crystal | Wealth corner activation | [Feng Shui Mall](https://www.fengshuimall.com/?ref=mysticcompass) |
 | Room divider/bookshelf | Zone separation | Any home store |
 
 > 🏠 See our [full product comparison](/best/feng-shui-products-home/) for the best stores.
