@@ -29,6 +29,17 @@
         </a>
       </div>
     </section>
+
+    <!-- Social Share -->
+    <section style="margin-top:2.5rem;text-align:center;padding:1.5rem;background:rgba(212,165,116,0.06);border-radius:12px;border:1px solid rgba(212,165,116,0.1);">
+      <p style="color:#d4a574;margin-bottom:0.8rem;font-size:0.95rem;">📤 Share your results</p>
+      <div style="display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;">
+        <a href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="padding:0.5rem 1rem;background:#1DA1F2;color:#fff;border-radius:6px;text-decoration:none;font-size:0.85rem;">Twitter</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="padding:0.5rem 1rem;background:#1877F2;color:#fff;border-radius:6px;text-decoration:none;font-size:0.85rem;">Facebook</a>
+        <a href="https://www.reddit.com/submit?title={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="padding:0.5rem 1rem;background:#FF4500;color:#fff;border-radius:6px;text-decoration:none;font-size:0.85rem;">Reddit</a>
+        <a href="https://pinterest.com/pin/create/button/?url={{ .Permalink | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" style="padding:0.5rem 1rem;background:#E60023;color:#fff;border-radius:6px;text-decoration:none;font-size:0.85rem;">Pinterest</a>
+      </div>
+    </section>
   </div>
 </article>
 {{ end }}

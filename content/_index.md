@@ -6,12 +6,20 @@ layout: index
 
 <div style="text-align:center;padding:3rem 1rem;max-width:700px;margin:0 auto;">
 
+<div style="position:relative;margin-bottom:2rem;">
+  <div style="width:120px;height:120px;margin:0 auto;background:radial-gradient(circle,rgba(212,165,116,0.2),transparent 70%);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:3.5rem;">🧭</div>
+</div>
+
 <h1 style="font-size:2.8rem;color:#d4a574;margin-bottom:0.5rem;">
   What Does Your Feng Shui Say?
 </h1>
 
-<p style="font-size:1.2rem;color:#999;margin-bottom:2rem;">
+<p style="font-size:1.2rem;color:#999;margin-bottom:0.5rem;">
   Free personal assessments. Tailored product picks. No guesswork.
+</p>
+
+<p style="font-size:0.9rem;color:#666;margin-bottom:2rem;">
+  Trusted by 3,000+ monthly readers · Based on Classical Feng Shui · Updated 2026
 </p>
 
 <div style="display:flex;gap:2rem;justify-content:center;flex-wrap:wrap;">
