@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://like-chess.surge.sh/sitemap.xml
+
+# Crawl-delay is a courtesy to hosting providers
+# Surge.sh handles this well, but keeping it for good practice
+Crawl-delay: 2

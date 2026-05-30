@@ -64,15 +64,13 @@
     {{ block "main" . }}{{ end }}
   </main>
 
-  {{ if not (or (eq .Type "review") (eq .Type "comparison")) }}
   <section class="cta-section">
     <div class="container">
-      <h2>Ready to Find Your Platform?</h2>
-      <p>Browse our reviews, compare features, and pick the Feng Shui platform that fits your journey.</p>
-      <a href="/reviews/" class="btn-primary">See All Reviews</a>
+      <h2>Discover Your Feng Shui</h2>
+      <p>Use our free tools to find your lucky directions, assess your home, and get tailored product recommendations.</p>
+      <a href="/tools/" class="btn-primary">Try Free Tools</a>
     </div>
   </section>
-  {{ end }}
 
   <footer class="site-footer">
     <div class="container">
@@ -82,8 +80,8 @@
           <p class="copyright">&copy; {{ now.Format "2006" }} Mystic Compass. All rights reserved.</p>
         </div>
         <nav class="footer-nav">
-          <a href="/reviews/">Reviews</a>
-          <a href="/vs/">Comparisons</a>
+          <a href="/tools/">Free Tools</a>
+          <a href="/blog/">Blog</a>
           <a href="/guide/">Guides</a>
           <a href="/best/">Best Picks</a>
         </nav>
