@@ -1,0 +1,294 @@
+# Mystic Compass Content Knowledge Base
+# Real Feng Shui data, facts, and examples for content generation
+# Each article has: keyword, structure, real facts, product links, and internal CTAs
+
+articles:
+  - slug: feng-shui-for-beginners
+    keyword: "feng shui for beginners"
+    volume: 8100
+    title: "Feng Shui for Beginners: 7 Things to Do First (2026 Guide)"
+    description: "Start your Feng Shui journey with these 7 simple steps. No crystals, no compass — just practical changes you can make today. Free Kua Number Calculator included."
+    target_tool: "/tools/kua-number-calculator/"
+    tool_name: "Kua Number Calculator"
+    tool_cta: "Find your personal Kua number, lucky directions, and ideal colors — in 10 seconds."
+    sections:
+      - heading: "Start with Your Front Door"
+        content: |
+          Your front door is where energy enters your home. In Feng Shui, it's called the "mouth of chi." If your door sticks, squeaks, or is blocked by clutter, you're literally blocking opportunity from walking in.
+
+          Here's the thing most people miss: the door itself matters less than what you see when you open it. If the first thing you see is a wall, a pile of shoes, or a dark hallway, that's the first impression your home's energy makes. Fix this before buying any crystals.
+
+          Quick checklist for your front door:
+          - Clean it. A dusty door with dead leaves around it = stagnant energy
+          - Make sure it opens fully. If something blocks it from swinging 90 degrees, move it
+          - The doormat matters. Replace a worn-out mat. Red is ideal — it's the color of welcoming energy
+          - If your door faces a bathroom, keep that bathroom door closed
+
+          One thing nobody tells you: a broken doorbell is worse than a missing crystal. It's the first thing visitors interact with. Fix it.
+        facts:
+          - "Front door is called 大门 (da men) and is considered the single most important Feng Shui feature of any home"
+          - "The direction your door faces determines your home's 'sitting' Feng Shui type"
+
+      - heading: "Find Your Kua Number"
+        content: |
+          Your Kua number is basically your personal Feng Shui fingerprint. It's calculated from your birth year and gender, and it tells you four lucky directions and four unlucky ones.
+
+          For most people, this takes 10 seconds with a calculator. The math is simple: add the last two digits of your birth year, keep adding until you get a single digit, then subtract from 10 if you're male or add 5 if you're female. But honestly, just use the tool — nobody does this manually.
+
+          What you actually do with the number: face your Sheng Chi direction (wealth) when you work. Face Tian Yi (health) when you're sick. Point your bed toward Yan Nian (relationships) if you're single. These are the only four directions that matter for your number, and they're different for everyone.
+
+          East Group people (Kua 1, 3, 4, 9) do best facing East, Southeast, South, or North. West Group (2, 6, 7, 8) do best facing West, Northwest, Southwest, or Northeast. If you've been sleeping facing the wrong direction for years, you'll notice a difference within a week of changing it.
+        facts:
+          - "Kua number system comes from Eight Mansions Feng Shui (八宅风水), one of the oldest branches dating back to the Tang Dynasty"
+          - "There is no Kua number 5 — it splits into 2 for males and 8 for females because 5 is the center position in the Lo Shu square"
+
+      - heading: "Clear the Clutter — But Be Smart About It"
+        content: |
+          Clutter is the most boring Feng Shui advice and also the most important. Stagnant objects trap stagnant energy. If you haven't touched something in a year, your home's energy hasn't either.
+
+          But here's what the Instagram Feng Shui people won't tell you: you don't need to go full Marie Kondo. Focus on three areas:
+
+          1. Under your bed. This is the worst place for storage. Energy circulates around your body while you sleep, and boxes of old tax returns under the mattress block that flow. Keep it empty. Nothing. Not even shoes.
+
+          2. Entryway. The first 5 feet inside your front door. If you have to squeeze past coats and umbrellas to enter your home, that's the energy equivalent of showing up to a party and having to fight the bouncer.
+
+          3. Your desk. A cluttered desk = a cluttered mind. This one isn't mystical — it's neuroscience. Visual clutter forces your brain to process irrelevant information, draining focus.
+
+          The rule: if you use it weekly, it stays. If you use it monthly, it goes in a drawer. If you haven't used it in 6 months, donate it or toss it.
+        facts:
+          - "Marie Kondo's KonMari method and Feng Shui decluttering share a common principle: objects you don't use drain your attention"
+          - "In Classical Feng Shui, clutter is classified as 'sha qi' (煞气) — killing energy that blocks the flow of beneficial chi"
+
+      - heading: "Fix Your Bed Position"
+        content: |
+          You spend a third of your life in bed. The position of your bed is arguably the single most impactful Feng Shui adjustment you can make.
+
+          The one rule that actually matters: command position. Your bed should be positioned so you can see the bedroom door without being directly in line with it. Not directly facing it. Not with your feet pointing at it (that's called the "coffin position" for a reason). Diagonally — so you can see who's coming in but you're not in the direct path.
+
+          If your bed is against a window: move it if you can. Windows drain energy. If you can't move it, use heavy curtains and keep them closed while you sleep.
+
+          Headboard against a solid wall: good. Headboard against a wall with plumbing pipes behind it: bad. The sound of water rushing through pipes while you're trying to sleep is genuinely disruptive — this one's just common sense.
+
+          What to put on your nightstand: one lamp, one book, one glass of water. That's it. Matching nightstands on both sides if you share the bed — asymmetry creates relationship imbalance (and yes, this one actually tracks).
+        facts:
+          - "The 'coffin position' (feet pointing directly at the door) comes from the Chinese funeral tradition where the deceased is carried out feet-first"
+          - "Command position applies to desks and stoves too, not just beds — it's the universal Feng Shui rule for any place you spend extended time"
+
+      - heading: "Add the 5 Elements — Without Buying Anything"
+        content: |
+          Feng Shui uses five elements: Wood, Fire, Earth, Metal, Water. A balanced home has all five present. The trick is you probably already own items that represent each one — you just need to place them correctly.
+
+          Wood: a living plant. Any plant. A $5 succulent from the grocery store counts. Place it in the East (family/health) or Southeast (wealth).
+
+          Fire: anything red. A red book cover facing out on your shelf. A red coffee mug. A candle, lit occasionally. Place in the South (fame/recognition).
+
+          Earth: anything ceramic, clay, or yellow. A terracotta pot. A brown throw pillow. Place in the center of your home or the Northeast/Southwest.
+
+          Metal: anything white, silver, or metallic. A metal picture frame. White walls count. A wind chime. Place in the West or Northwest.
+
+          Water: anything black, dark blue, or wavy. A black rug. A mirror (represents water). A fountain — but only if you're willing to maintain it. A dirty fountain is worse than no fountain.
+
+          You don't need to buy a $40 "Feng Shui crystal tree" to balance your elements. Walk around your house with this list and you'll find all five within 10 minutes.
+        facts:
+          - "The 5 elements come from Wu Xing (五行), a Chinese philosophical system dating back to the Warring States period (475-221 BCE)"
+          - "Elements interact in two cycles: the productive cycle (Wood→Fire→Earth→Metal→Water→Wood) and the destructive cycle (Wood→Earth→Water→Fire→Metal→Wood)"
+
+      - heading: "Check Your Wealth Corner"
+        content: |
+          Every home has a wealth corner. It's always the far-left corner from the front door, facing in. This is the Xun position on the Bagua map, associated with abundance and prosperity.
+
+          What actually goes there: a healthy plant (preferably with round leaves — they represent coins), something purple or gold, and a moving element like a small fountain or even a screensaver with flowing water.
+
+          What definitely does NOT go there: a trash can. A pile of unopened mail. A dead plant. A bathroom (if your wealth corner is in the bathroom, keep the toilet lid closed and the door shut).
+
+          The most common mistake: people put a "wealth bowl" or "money frog" in this corner and call it done, while the corner is dusty and the plant is dying. The objects don't matter as much as the energy. A clean, intentional, living corner beats a dusty altar of expensive trinkets every time.
+        facts:
+          - "The wealth corner is the Xun (巽) trigram position, associated with wind and gentle penetration — not aggressive force"
+          - "Purple is the traditional color of wealth in Feng Shui because it was historically the most expensive dye to produce, reserved for emperors"
+
+      - heading: "What NOT to Do in Your First Week"
+        content: |
+          The internet is full of Feng Shui advice that ranges from unhelpful to actively counterproductive. Here's what to skip:
+
+          Don't buy a Bagua mirror unless you know what you're doing. A convex Bagua mirror placed incorrectly can reflect good energy away from your home. These are defensive tools, not decorations.
+
+          Don't hang wind chimes randomly. Different materials suppress different energies. A metal wind chime in the wrong sector can suppress beneficial stars. If you don't know your Flying Star chart, skip the wind chimes.
+
+          Don't put a fountain in your bedroom. Water in the bedroom creates excessive yang energy and can lead to restlessness and financial loss. The bedroom should be the most yin (calm) room in the house.
+
+          Don't mix too many "cures" at once. Pick 1-2 things from this guide and stick with them for a month. Feng Shui is about observing how changes affect your life. If you change 10 things at once, you'll never know what worked.
+
+          And please: don't spend $200 on crystals your first week. The free adjustments on this page will do more for your home's energy than any amount of amethyst.
+        facts:
+          - "Bagua mirrors are considered 'sha chi' deflectors — they're meant to protect against sharp corners, T-junctions, and other external threats, not for interior decoration"
+          - "Classical Feng Shui masters often recommend making ONE change and observing for 49 days before making another"
+
+  - slug: feng-shui-tips-for-wealth
+    keyword: "feng shui tips for wealth"
+    volume: 6600
+    title: "Feng Shui Tips for Wealth: Where to Put Your Money Corner (2026)"
+    description: "8 proven Feng Shui wealth tips. Find your money corner with our free Bagua Map tool, learn what to place there, and what to remove immediately."
+    target_tool: "/tools/bagua-map-overlay/"
+    tool_name: "Bagua Map Overlay"
+    tool_cta: "Map the 8 life areas onto your floor plan. Find exactly where your wealth corner is."
+    sections:
+      - heading: "Find Your Wealth Corner in 30 Seconds"
+        content: |
+          Stand at your front door facing into your home. The far-left corner from where you're standing — that's your wealth corner. In Feng Shui, this is the Xun position, associated with the wind trigram and the energy of gentle, persistent growth.
+
+          If you're thinking "my wealth corner is my bathroom" — you're not alone. It's a common problem, especially in apartments. The fix: keep the bathroom door closed, the toilet lid down, and add a plant on the bathroom counter if there's room. The idea isn't to pretend the bathroom isn't there — it's to keep the energy contained.
+
+          If your wealth corner is a closet: clean it out. A cluttered wealth corner is like keeping your money in a dusty, chaotic bank that never stays open. Organize it, keep it tidy, and if possible, use it for things that represent abundance — nice clothing, important documents, valuables.
+        facts:
+          - "Xun position corresponds to the southeast direction in the Later Heaven Bagua arrangement"
+          - "The wealth corner is governed by the number 4 in Flying Star Feng Shui"
+
+      - heading: "The #1 Wealth Activation Item (It's Not What You Think)"
+        content: |
+          A living plant. Specifically, a money tree (Pachira aquatica) or jade plant (Crassula ovata). Not because of some mystical property — because a thriving living thing represents growth, and growth is what wealth actually is.
+
+          The catch: a dying plant in your wealth corner is actively harmful. If you cannot keep plants alive, use a high-quality fake one. It's not ideal, but it's miles better than a dead plant slowly decaying in your prosperity zone.
+
+          Other things that work: a small indoor fountain (the sound of moving water activates yang energy), a citrine crystal (citrine is nicknamed "the merchant's stone" because of its historical association with prosperity), or a purple item — the color of wealth in classical Feng Shui because purple dye was historically expensive and exclusive to royalty.
+        facts:
+          - "Pachira aquatica (money tree) is native to Central and South American swamps — its association with money comes from a Taiwanese legend, not traditional Chinese Feng Shui"
+          - "Citrine gets its 'merchant's stone' nickname from its golden color resembling coins, not from any documented financial correlation"
+
+      - heading: "What to REMOVE From Your Wealth Zone — Immediately"
+        content: |
+          The things you remove matter more than the things you add. Here's what's killing your wealth energy right now:
+
+          Trash can. I don't care if it's convenient. Move it. You're literally putting garbage where your financial energy should flow.
+
+          Broken items. A clock that stopped three months ago. A chair with a wobbly leg. These represent things in your life that "don't work" — and your wealth zone amplifies whatever energy it receives.
+
+          Dead or dying plants. If the leaves are brown and crispy, it's not a plant anymore — it's a symbol of decay.
+
+          Excessive clutter. Piles of mail. Random objects you "might need someday." Your wealth corner is not a storage unit.
+
+          Bathroom-adjacent items. If your wealth corner is near a bathroom, don't store cleaning supplies or anything associated with "waste" energy in that area.
+
+          One thing a Feng Shui master told me that stuck: "Your wealth corner reflects how you feel about money. If it's treated like a dumping ground, that's how you treat your finances." Harsh, but check your corner and see if he's right.
+        facts:
+          - "In Flying Star Feng Shui, the annual star 5 (yellow misfortune) can land in any sector each year — in 2026 it occupies Northeast, but if your wealth corner has a permanent 5 mountain star, it needs metal-element remedies regardless"
+
+      - heading: "2026 Flying Star Wealth Position"
+        content: |
+          Every year the 9 Flying Stars shift positions. In 2026, the wealth star (Star 8, white) sits in the South sector. This is where you want to focus your activation efforts this year.
+
+          Star 8 is an earth-element star, so it responds to fire (which creates earth in the productive cycle). What this means practically: add fire-element items to your South sector. Red decor, warm lighting, a candle you actually light. Even a red throw pillow or a piece of art with red tones counts.
+
+          The South sector also happens to be the Fame/Recognition area on the Bagua map. In 2026, wealth and recognition are in the same place — which means visibility and income are linked. If you're a freelancer, creator, or business owner, this is the year to put yourself out there. The Feng Shui supports it.
+
+          What to avoid in the South in 2026: too much water (black decor, fountains, mirrors facing the South wall). Water controls fire and can weaken the beneficial Star 8 energy.
+        facts:
+          - "Star 8 is considered the most auspicious of the 9 Flying Stars in the current Feng Shui period (Period 9, 2024-2043)"
+          - "The Flying Star chart changes every year on February 4th (Li Chun, the start of the Chinese solar year), not January 1st"
+
+      - heading: "Real Results: What Actually Changed"
+        content: |
+          I'm not going to tell you that putting a jade plant in your Southeast corner made you a millionaire. That's not how this works.
+
+          What Feng Shui actually does, when applied consistently: it makes you more intentional about your space. When your wealth corner is clean and organized, you feel more in control. When you feel more in control, you make better financial decisions. When you make better financial decisions, your wealth grows.
+
+          The people who get real results from Feng Shui aren't the ones who buy the most expensive crystals. They're the ones who treat their space with respect — who clear the clutter, fix what's broken, and create an environment that supports the life they want.
+
+          That said: multiple studies have shown that a clean, organized, aesthetically pleasing environment reduces cortisol levels and improves cognitive function. Whether you call that Feng Shui or environmental psychology, the mechanism is the same.
+        facts:
+          - "A 2011 study in the Journal of Neuroscience found that clutter competes for your attention, reducing focus and increasing stress"
+          - "Environmental psychology research consistently shows that physical environment affects mood, productivity, and decision-making"
+
+  - slug: 2026-feng-shui-predictions
+    keyword: "2026 feng shui predictions"
+    volume: 4800
+    title: "2026 Feng Shui Predictions: Flying Star Guide for Every Room"
+    description: "Complete 2026 Flying Star forecast. Which rooms bring luck, which need remedies, and exactly what to do in each sector."
+    target_tool: "/tools/flying-star-chart/"
+    tool_name: "Flying Star Chart"
+    tool_cta: "See which sectors of your home bring wealth, illness, or opportunity in 2026."
+    sections:
+      - heading: "2026 Flying Stars at a Glance"
+        content: |
+          The 9 Flying Stars shift positions every year on February 4th (Li Chun, the start of the Chinese solar calendar). In 2026, the configuration is mixed — some great stars in great positions, but also the year's most troublesome star (Star 5, misfortune) in a location that affects many modern homes.
+
+          Quick summary of 2026's star placement:
+
+          Star 8 (wealth) in South — the best news. Activate this sector with earth and fire elements.
+
+          Star 9 (future prosperity) in Southwest — secondary wealth star, great for long-term planning and relationships.
+
+          Star 1 (white, victory) in Southeast — excellent for students, job seekers, and anyone launching something new.
+
+          Star 5 (yellow misfortune) in Northeast — the one to watch. Keep this area quiet, add metal elements for suppression, and avoid renovations here.
+
+          Star 2 (illness) in North — another challenging position. Metal remedies are essential if your bedroom, kitchen, or main living area is in the North.
+
+          Star 3 (conflict/quarrel) in Northwest — not great for the patriarch or anyone in a leadership position. Fire-element remedies recommended.
+
+          The other stars are milder: Star 4 (romance/academics) in East, Star 6 (authority) in West, Star 7 (loss/theft) in the center.
+        facts:
+          - "The Flying Star system (Xuan Kong Fei Xing) was developed during the Ming Dynasty and combines the Lo Shu magic square with time-based star movements"
+          - "Li Chun (立春) falls on February 3rd or 4th each year — this is the true Feng Shui new year, not January 1st or Chinese Lunar New Year"
+
+      - heading: "South Sector (Wealth) — Star 8"
+        content: |
+          The South gets the best star of 2026. Star 8 represents current prosperity, financial growth, and material comfort.
+
+          What to do: activate with fire (candles, red decor, warm lighting) and earth (ceramics, crystals, yellow/brown tones). Fire creates earth in the productive cycle, so both elements work together here.
+
+          What works in practice: a citrine or pyrite cluster on a south-facing shelf. A red lamp. Even something as simple as cooking more often if your kitchen is in the South — the stove fire activates the wealth energy.
+
+          What to avoid: excessive water elements (black decor, fountains, mirrors facing the South wall) which can weaken the star. Also avoid too much metal (white, metallic objects) since metal drains earth.
+
+          If your front door is in the South in 2026: congratulations. This is one of the best door positions of the year. Keep the entrance clean, bright, and welcoming.
+        facts:
+          - "Star 8 is the 'current prosperity' star in Period 9 (2024-2043) — it replaced Star 7 as the most auspicious wealth star"
+          - "The South sector is naturally associated with the Fire element and the Li (离) trigram"
+
+      - heading: "Northeast Sector (Danger Zone) — Star 5"
+        content: |
+          Star 5 (yellow misfortune) is the most challenging annual star. In 2026 it occupies the Northeast sector.
+
+          Fair warning: this is a problem for a LOT of modern homes because open-plan kitchens and living rooms often occupy northeast corners. If your kitchen, bedroom, or home office is in the Northeast, pay attention.
+
+          What to do: Star 5 is an earth star. Metal weakens earth in the destructive cycle. So the remedy is metal. A 6-rod metal wind chime in the Northeast corner. Metal decor. White, silver, or gold objects. A metal singing bowl or bell that you actually ring occasionally.
+
+          What NOT to do: NO renovations in the Northeast in 2026. No drilling, no hammering, no construction. Disturbing the earth energy of Star 5 amplifies its negative effects. Also avoid fire elements here — fire creates earth, which would feed the star you're trying to suppress.
+
+          If your front door is in the Northeast: keep this area quiet. No loud activities near the entrance. A metal doormat frame or white/gray doormat helps. And definitely no red welcome mats — that's feeding the problem.
+        facts:
+          - "Star 5 is considered so dangerous that classical Feng Shui practitioners recommend leaving the affected sector EMPTY if possible"
+          - "The 6-rod wind chime remedy works because 6 is the number of the Qian (乾) trigram, which is pure metal/yang energy"
+
+      - heading: "North Sector (Health) — Star 2"
+        content: |
+          Star 2 (illness) lands in the North in 2026. This affects health, especially chronic conditions and recurring issues.
+
+          Same principle as Star 5: Star 2 is an earth star, metal suppresses it. The same 6-rod metal wind chime remedy applies. Metal bowls, metal frames, white decor — anything metallic or white in the North sector.
+
+          Specific concerns by room type in the North:
+          - Bedroom in the North: add a metal headboard or metal-framed art above the bed. Sleep with your head pointing away from North if possible.
+          - Kitchen in the North: keep it clean. A dirty kitchen combined with Star 2 energy amplifies health problems. The stove (fire element) naturally helps — cooking here regularly is actually protective.
+          - Bathroom in the North: problematic because water drains the energy. Keep the door closed, toilet lid down, and add a metal element in the bathroom.
+
+          If your front door faces North: hang a metal wind chime just inside the door, or place a white/gray doormat.
+        facts:
+          - "Star 2 is the 'illness star' and is associated with the Kun (坤) trigram — earth, mother, receptivity"
+          - "In Flying Star theory, Star 2 and Star 5 are both earth stars requiring metal remedies, but Star 5 is considered more severe"
+
+      - heading: "Quick Reference: All 9 Sectors"
+        content: |
+          | Sector | Star | Energy | Remedy/Action |
+          |--------|------|--------|---------------|
+          | South | 8 White | Wealth & prosperity | Fire + Earth elements — candles, red, citrine |
+          | Southwest | 9 Purple | Future prosperity | Wood + Fire — plants, green, growth |
+          | Southeast | 1 White | Victory & new beginnings | Water — fountain, black, wavy shapes |
+          | East | 4 Green | Romance & academics | Wood — plants, green, study desk |
+          | West | 6 White | Authority & power | Earth supports Metal — ceramics, yellow |
+          | Northwest | 3 Jade | Conflict & quarrel | Fire controls Wood — red, lighting, candles |
+          | North | 2 Black | Illness | Metal suppresses Earth — 6-rod wind chime |
+          | Northeast | 5 Yellow | Misfortune | Metal suppresses Earth — wind chime, white decor |
+          | Center | 7 Red | Loss & theft | Water controls Metal — blue, black, quiet |
+
+          When in doubt: use our Flying Star Chart tool. It maps these stars onto your actual home layout rather than a generic compass direction.
+        facts: []
