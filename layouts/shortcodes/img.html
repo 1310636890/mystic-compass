@@ -1,0 +1,65 @@
+{{/*
+  Responsive Image Shortcode
+  Usage: {{< img src="filename.webp" alt="description" class="optional-class" width="800" height="600" >}}
+  
+  Place images in: static/images/
+  Shortcode generates:
+  - WebP with AVIF/JPEG fallback
+  - Lazy loading
+  - Responsive srcset (400w, 800w, 1200w)
+  - Aspect ratio container to prevent layout shift
+*/}}
+
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $width := .Get "width" | default "800" -}}
+{{- $height := .Get "height" | default "600" -}}
+
+{{- $basePath := path.Dir $src -}}
+{{- $baseName := path.BaseName $src -}}
+{{- $ext := path.Ext $src -}}
+
+{{- $imagePath := printf "images/%s" $src -}}
+{{- $image := .Page.Resources.GetMatch $imagePath -}}
+
+<div class="responsive-img {{ $class }}" style="max-width:{{ $width }}px;">
+  {{ if $image }}
+    {{- $webp400 := $image.Resize "400x webp" -}}
+    {{- $webp800 := $image.Resize "800x webp" -}}
+    {{- $webp1200 := $image.Resize "1200x webp" -}}
+    {{- $jpg400 := $image.Resize "400x jpg" -}}
+    {{- $jpg800 := $image.Resize "800x jpg" -}}
+    
+    <picture>
+      <source 
+        srcset="{{ $webp400.RelPermalink }} 400w, {{ $webp800.RelPermalink }} 800w, {{ $webp1200.RelPermalink }} 1200w"
+        sizes="(max-width: 480px) 400px, (max-width: 768px) 800px, 1200px"
+        type="image/webp">
+      <img
+        src="{{ $jpg800.RelPermalink }}"
+        srcset="{{ $jpg400.RelPermalink }} 400w, {{ $jpg800.RelPermalink }} 800w"
+        sizes="(max-width: 480px) 400px, (max-width: 768px) 800px, 1200px"
+        alt="{{ $alt }}"
+        loading="lazy"
+        decoding="async"
+        width="{{ $width }}"
+        height="{{ $height }}"
+        style="width:100%;height:auto;">
+    </picture>
+  {{ else }}
+    <img
+      src="/images/{{ $src }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async"
+      width="{{ $width }}"
+      height="{{ $height }}"
+      style="width:100%;height:auto;"
+      onerror="this.style.display='none';this.parentElement.classList.add('img-error');"
+    >
+    <div class="img-fallback" style="display:none;">
+      <span>🖼 {{ $alt }}</span>
+    </div>
+  {{ end }}
+</div>

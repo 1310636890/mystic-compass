@@ -681,6 +681,98 @@ table {
 .stagger-3 { animation-delay: 0.3s; }
 
 /* ══════════════════════════════════════════
+   RESPONSIVE IMAGES
+   ══════════════════════════════════════════ */
+.responsive-img {
+  margin: 2rem auto;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  background: var(--bg-alt);
+}
+
+.responsive-img img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.responsive-img:hover img {
+  transform: scale(1.02);
+}
+
+.responsive-img picture {
+  display: block;
+  width: 100%;
+}
+
+/* Image with caption */
+figure.responsive-figure {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+figure.responsive-figure img,
+figure.responsive-figure picture img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+}
+
+figure.responsive-figure figcaption {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Fallback when image fails to load */
+.img-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  background: var(--bg-alt);
+  border: 2px dashed var(--border);
+  border-radius: var(--radius-md);
+  color: var(--text-muted);
+  font-size: 1.1rem;
+}
+
+/* Image grid — auto-adapting masonry-like layout */
+.img-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.img-grid .responsive-img {
+  margin: 0;
+  aspect-ratio: 4/3;
+}
+
+.img-grid .responsive-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 480px) {
+  .img-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .responsive-img {
+    margin: 1.5rem auto;
+    border-radius: var(--radius-sm);
+  }
+}
+
+/* ══════════════════════════════════════════
    RESPONSIVE
    ══════════════════════════════════════════ */
 @media (max-width: 768px) {
