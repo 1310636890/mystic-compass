@@ -292,3 +292,396 @@ articles:
 
           When in doubt: use our Flying Star Chart tool. It maps these stars onto your actual home layout rather than a generic compass direction.
         facts: []
+
+  # === Phase 2: Expanded Articles (2026-05-30) ===
+
+  - slug: feng-shui-bedroom-layout
+    keyword: "feng shui bedroom layout"
+    volume: 5400
+    title: "Feng Shui Bedroom Layout: Where to Put Your Bed for Better Sleep (2026)"
+    description: "The complete Feng Shui bedroom guide. Bed placement, mirror rules, colors for your Kua number, and which direction to sleep."
+    target_tool: "/tools/kua-number-calculator/"
+    tool_name: "Kua Number Calculator"
+    tool_cta: "Find your personal lucky sleeping direction in 10 seconds."
+    sections:
+      - heading: "The Command Position: Your Bed's One Non-Negotiable Rule"
+        content: |
+          Command position means you can see the door from your bed without being directly in line with it. This one rule matters more than crystals, colors, or any Feng Shui product you can buy.
+
+          The practical version: your bed should be diagonal to the door. Not facing it directly. Not with your back to it. You want to see who's coming in without being in the path of the door's energy flow.
+
+          If your room layout makes this impossible — and many small bedrooms do — use a mirror. Position it so you can see the door's reflection from your bed. It's not ideal, but it works.
+
+          What to avoid: feet pointing directly at the door. This is called the coffin position because in Chinese funeral tradition, the deceased is carried out feet-first. Even if you're not superstitious, the psychological effect of sleeping in "exit position" is real.
+        facts:
+          - "The command position is called 玄武位 (Xuan Wu position) in Chinese — named after the Black Tortoise, symbol of protection and stability"
+          - "A 2019 study in Building and Environment found that bed position relative to the door affects perceived sleep quality"
+
+      - heading: "Mirrors in the Bedroom: The Real Rules"
+        content: |
+          The internet will tell you "no mirrors in the bedroom, ever." That's an oversimplification.
+
+          The actual rule: don't place a mirror where you can see your reflection from the bed. The issue is that mirrors bounce energy around the room, and when you're sleeping — your most vulnerable state — you don't want active, bouncing energy. It leads to restless sleep.
+
+          Mirrors are fine if: they're inside a closet (door closed at night), they're on a wall perpendicular to the bed (you can't see yourself lying down), or they're covered at night with a cloth or screen.
+
+          One specific thing to fix today: if your closet has mirrored sliding doors facing your bed, hang a curtain track above them. Close the curtain at night. It costs $20 and makes a measurable difference in sleep quality.
+
+          Also: no ceiling mirrors. I shouldn't have to say this, but here we are.
+        facts:
+          - "In classical Feng Shui, mirrors are classified as 'water element' because of their reflective quality — water energy in the bedroom is generally discouraged"
+          - "Ancient Chinese bedrooms rarely had mirrors at all — they were kept in dressing rooms or vanity areas separate from the sleeping space"
+
+      - heading: "Best Bed Direction for Your Kua Number"
+        content: |
+          Your Kua number determines your four lucky directions. The best one for sleep depends on what you need:
+
+          Sheng Chi (wealth): point your head this way if you want career growth, financial improvement, or general success.
+
+          Tian Yi (health): point here if you're recovering from illness, dealing with chronic conditions, or just want better physical health.
+
+          Yan Nian (relationships): this is the direction to point if you're single and looking, or if your current relationship needs work.
+
+          Fu Wei (stability): the most calming direction. Best for people with anxiety, insomnia, or anyone who just wants deep, uninterrupted sleep.
+
+          You don't need to take my word for which direction is which — use our calculator. It gives you all four in order.
+        facts:
+          - "Each Kua number's four auspicious directions are arranged in order of strength: Sheng Chi (strongest) > Tian Yi > Yan Nian > Fu Wei (mildest)"
+          - "The direction your head points while sleeping is considered more important than the direction your feet point"
+
+      - heading: "Colors That Actually Help You Sleep"
+        content: |
+          Bedroom color advice in Feng Shui can get ridiculous ("paint your walls peach to attract romance"). Let's be practical.
+
+          Best colors for a bedroom: warm neutrals (beige, cream, light brown), soft blues, gentle greens. These are all yin colors — calming, grounding, sleep-promoting.
+
+          Colors to avoid: bright red (too stimulating), stark white (too yang/cold), dark gray or all-black (can feel heavy and depressing even if the goth aesthetic works for you).
+
+          If you can't repaint: use bedding and accessories. A beige duvet cover over a red wall is better than the red wall alone. A blue throw pillow on a white bed helps balance the cold energy.
+
+          The real secret: whatever color makes you feel calm when you look at it, use that. Feng Shui should adapt to you, not the other way around.
+        facts:
+          - "In Five Element theory, blue and black = water (calm), green = wood (growth/health), beige = earth (grounding)"
+          - "A 2018 study in the Journal of Interior Design found that blue bedrooms correlated with longer average sleep duration"
+
+      - heading: "What Goes on Your Nightstand (and What Doesn't)"
+        content: |
+          Your nightstand is the last thing you see before sleep and the first thing you see when you wake up. What's on it matters.
+
+          Keep: one lamp (soft, warm light — no blue-light LEDs), one book (physical, not phone), one glass of water. If you share the bed, matching nightstands on both sides. Symmetry = balance.
+
+          Remove: work laptop, pile of unread mail, five empty water glasses, your phone (at least put it face-down and on silent), and anything with a screen that glows.
+
+          One thing people never think about: what's UNDER your nightstand. If there's a tangle of charging cables and dust bunnies down there, clean it. Energy flows under furniture too.
+        facts:
+          - "Feng Shui considers the area within 3 feet of your head while sleeping as your most intimate energy zone"
+
+      - heading: "Electronics: The Real Sleep Killer"
+        content: |
+          Let me be direct: your phone next to your bed is doing more damage to your Feng Shui than any missing crystal.
+
+          The Feng Shui reason: electronics emit yang (active, stimulating) energy. Your bedroom should be the most yin room in the house — dark, quiet, calm. A phone buzzing with notifications at 2am is the opposite of that.
+
+          The non-Feng Shui reason: blue light suppresses melatonin. You already know this. Every sleep scientist on earth has been saying it for a decade.
+
+          Practical fix: charge your phone in another room. If you use it as an alarm, get a $15 alarm clock. If you absolutely must have it in the bedroom, put it at least 6 feet from your bed, face-down, on do-not-disturb.
+
+          Same goes for TVs, tablets, and gaming consoles. If it has a screen, it doesn't belong where you sleep.
+        facts:
+          - "In electromagnetic Feng Shui (a modern adaptation), electronic devices are considered 'fire element' due to the heat and electromagnetic fields they generate"
+          - "The National Sleep Foundation recommends removing all screens from the bedroom for optimal sleep hygiene"
+
+  - slug: feng-shui-colors-meaning
+    keyword: "feng shui colors meaning"
+    volume: 3600
+    title: "Feng Shui Colors Meaning: Complete Guide to the 5 Elements (2026)"
+    description: "What each Feng Shui color means, which element it belongs to, and exactly where to use each one. Match colors to your Kua number for maximum effect."
+    target_tool: "/tools/kua-number-calculator/"
+    tool_name: "Kua Number Calculator"
+    tool_cta: "Find which colors match your Kua number's element."
+    sections:
+      - heading: "Fire Element Colors: Red, Purple, Orange"
+        content: |
+          Fire colors bring energy, passion, and recognition. They're the most yang (active) of the five element palettes.
+
+          Red: the most powerful Feng Shui color. Associated with luck, protection, and celebration. In Chinese culture, red is everywhere during weddings and New Year because it's believed to ward off evil spirits. In your home: use red sparingly. A red front door is classic — it welcomes prosperity. Red accents in the South (fame/recognition sector) boost visibility. But a red bedroom wall? Too stimulating. You'll never sleep.
+
+          Purple: the color of wealth and spiritual awareness. Historically, purple dye was the most expensive to produce — reserved for emperors and nobility. In Feng Shui, purple in the wealth corner (Southeast) amplifies abundance energy. Lavender in the meditation area (Northeast) supports spiritual practice.
+
+          Orange: a gentler fire color. Good for social spaces like living rooms and dining areas — it encourages conversation and warmth without red's intensity.
+
+          Fire colors work best in: South (fame), Southwest (relationships — use pink/peach, not red), and any space where you need energy and motivation.
+        facts:
+          - "In the productive cycle of Five Elements, Fire creates Earth — so fire colors in earth-element sectors (Northeast, Southwest, center) are supportive"
+
+      - heading: "Earth Element Colors: Yellow, Brown, Beige"
+        content: |
+          Earth colors are the most grounding and stable. They bring a sense of security, nourishment, and reliability. If a room feels chaotic or anxious, adding earth tones calms it down immediately.
+
+          Yellow: warmth, optimism, mental clarity. A yellow kitchen (earth colors in the kitchen are ideal — fire from the stove feeds earth) promotes healthy cooking and family gatherings. Yellow in the center of the home strengthens overall stability.
+
+          Brown and beige: the neutral workhorses of Feng Shui. Wood furniture, leather sofas, terracotta pots — these are earth elements doing their job quietly. You probably already have them. What matters is keeping them clean and intentional.
+
+          Earth colors work best in: center of the home (overall harmony), Northeast (knowledge/spirituality), Southwest (relationships/marriage).
+
+          One practical tip: if your home office feels stressful, add a beige rug or a terracotta planter. The grounding energy counteracts the fire/mental intensity of work.
+        facts:
+          - "Earth is the center element in the Five Element system — it represents the pivot point around which the other four elements rotate"
+
+      - heading: "Metal Element Colors: White, Gold, Silver, Gray"
+        content: |
+          Metal colors bring clarity, precision, and organization. They're the colors of minimalism for a reason — metal energy cuts through clutter and brings structure.
+
+          White: the color of purity and new beginnings. White walls are actually great Feng Shui if balanced with warm elements (wood, earth tones). A fully white room without any warmth feels cold and clinical. Add a wooden coffee table or beige rug to humanize it.
+
+          Gold and silver: metallic accents bring the literal "metal" quality — sharpness, efficiency, wealth. A gold picture frame, a silver lamp base, metallic hardware on cabinets. These small touches matter more than repainting.
+
+          Gray: the tricky one. Light gray in small doses is fine — it's a softer metal. But too much gray (the "millennial gray" floor-to-ceiling trend) creates heavy, depressing energy. If your whole house is gray, break it up with plants (wood element — controls the excess).
+
+          Metal colors work best in: West (creativity/children), Northwest (helpful people/travel), and any area where you need more organization or clarity.
+        facts:
+          - "Metal is unique in the Five Element system in that it's the only element not directly found in nature — it's a product of human refinement, symbolizing civilization and order"
+
+      - heading: "Water Element Colors: Black, Dark Blue"
+        content: |
+          Water colors bring depth, wisdom, and flow. They're the most yin (passive/receptive) palette and create a sense of calm and introspection.
+
+          Black: depth, mystery, career energy. Black in the North (career sector) strengthens professional energy. A black front door is actually excellent Feng Shui — it represents the water element welcoming abundance. But black bedroom walls? Too heavy. Use black in accessories, not as the dominant color.
+
+          Dark blue: wisdom, communication, calm. Blue is excellent for studies, home offices, and meditation spaces. Light blue works anywhere. Navy blue works as an accent. The key is shade — pale blue calms, deep blue focuses.
+
+          Water colors work best in: North (career), East (family/health — water feeds wood in the productive cycle), Southeast (wealth — though be careful not to drown the wood energy).
+
+          Avoid: too much black in the South (douses the fire element) or in the bedroom (too yin — can contribute to depression or lethargy).
+        facts:
+          - "In Flying Star Feng Shui, water colors can activate or suppress specific annual stars — a dark blue item in the North can enhance beneficial water-element stars"
+
+      - heading: "Wood Element Colors: Green, Teal, Brown"
+        content: |
+          Wood colors bring growth, vitality, and new beginnings. They're the colors of spring — fresh starts, expansion, and upward movement.
+
+          Green: the universal growth color. Green in the East (family/health) supports physical wellbeing. Green in the Southeast (wealth) — combined with a living plant — is one of the strongest wealth activations in Feng Shui. A green accent wall or green throw pillows make an immediate difference.
+
+          Teal: a blend of green (wood) and blue (water). Since water feeds wood in the productive cycle, teal is doubly supportive for growth areas. Great for creative spaces and studies.
+
+          Wood colors work best in: East (family/health), Southeast (wealth), South (fame — wood feeds fire, so green near red creates a productive cycle).
+
+          The simplest wood element activation: one healthy plant in the East or Southeast sector. That's it. The color is a bonus — the living plant is the real engine.
+        facts:
+          - "Wood is the first element in the productive cycle (Wood→Fire→Earth→Metal→Water→Wood), symbolizing the beginning of all growth"
+          - "In Chinese metaphysics, the Wood element corresponds to spring, the direction East, the planet Jupiter, and the color green"
+
+      - heading: "How to Match Colors to Your Kua Number"
+        content: |
+          Your Kua number belongs to one of the five elements. Wearing and surrounding yourself with your element's colors strengthens your personal energy.
+
+          Kua 1 — Water element: black, dark blue, charcoal. Avoid too much earth (yellow/brown) which blocks water.
+
+          Kua 2, 8 — Earth element: yellow, beige, terracotta, warm brown. Avoid too much wood (green) which drains earth.
+
+          Kua 3, 4 — Wood element: green, teal, light blue. Avoid too much metal (white/gray) which cuts wood.
+
+          Kua 6, 7 — Metal element: white, gold, silver, light gray. Avoid too much fire (red) which melts metal.
+
+          Kua 9 — Fire element: red, purple, orange, pink. Avoid too much water (black/blue) which extinguishes fire.
+
+          This doesn't mean you need to redecorate your whole house. Start with what you WEAR — a shirt in your element's color, a scarf, a phone case. Small daily exposure to your supportive element has more impact than painting a wall you rarely look at.
+        facts:
+          - "The Kua number system assigns each number to one of the Eight Trigrams (八卦), which in turn correspond to the Five Elements"
+
+  - slug: how-to-use-feng-shui-compass
+    keyword: "how to use feng shui compass"
+    volume: 1600
+    title: "How to Use a Feng Shui Compass (Luo Pan): Complete Guide for Beginners"
+    description: "Learn to read a Luo Pan compass. Understand the 24 mountains, how to take readings, and the difference between a real Luo Pan and a phone compass."
+    target_tool: "/tools/bagua-map-overlay/"
+    tool_name: "Bagua Map Overlay"
+    tool_cta: "Practice with our free Bagua Map tool — no compass needed."
+    sections:
+      - heading: "Luo Pan vs Phone Compass: Which One Do You Actually Need?"
+        content: |
+          A real Luo Pan is a beautiful instrument — concentric rings of Chinese characters, precise markings for 24 mountains, and a magnetic needle at the center. They cost anywhere from $30 for a basic one to $500+ for a professional-grade instrument.
+
+          Do you need one? For basic Feng Shui — finding your Kua number's directions, doing a simple Bagua overlay — a phone compass app works fine. The difference between 157 degrees and 160 degrees doesn't matter when you're just trying to figure out if your bed faces roughly East or roughly North.
+
+          But if you're getting serious — calculating exact Flying Star positions, doing professional consultations, or working with the 24 Mountains system — you need a real Luo Pan. Phone compasses are affected by metal in your phone's case, nearby electronics, and magnetic interference from building materials. A Luo Pan is designed specifically to be accurate in indoor environments.
+
+          The middle ground: start with your phone. If you find yourself doing Feng Shui regularly and noticing the phone compass gives inconsistent readings, that's when you invest in a Luo Pan.
+        facts:
+          - "A traditional Luo Pan typically has 18-36 concentric rings, each containing specific Feng Shui data — the 24 Mountains ring is the most commonly used for beginners"
+          - "The magnetic needle in a Luo Pan points to magnetic south (not true south), which is the reference used in classical Feng Shui"
+
+      - heading: "How to Take a Reading: Step by Step"
+        content: |
+          1. Stand in the center of the room you're measuring. Remove any metal from your pockets — keys, phone (ironic, I know), watch.
+
+          2. Hold the compass level at waist height. Tilting it gives wrong readings.
+
+          3. Wait for the needle to settle. In older buildings with lots of metal in the walls, this can take 10-15 seconds.
+
+          4. Read the direction the front of the compass points. On a Luo Pan, the needle points south (Chinese compasses are oriented to south, not north). On a phone compass, it points north — that's fine, just note which.
+
+          5. Take three readings from slightly different spots in the room. If they're all within 5 degrees of each other, use the average. If they vary wildly, there's magnetic interference — try a different room or come back later.
+
+          For the Bagua overlay: you need the direction the DOOR faces from inside looking out. Stand inside the room, face the door, take the reading.
+
+          For Flying Stars: you need the building's facing direction, taken from the center of the property looking at the front door.
+        facts:
+          - "Classical Feng Shui uses the 24 Mountains system which divides the 360-degree compass into 24 sectors of 15 degrees each"
+
+      - heading: "The 24 Mountains: What They Actually Mean"
+        content: |
+          The 24 Mountains (二十四山) are the fine-grained directional system used in advanced Feng Shui. Instead of just 8 directions (N, NE, E, SE, S, SW, W, NW), you get 24 precise sectors, each 15 degrees wide.
+
+          Each of the 8 main directions contains 3 mountains. For example, North contains: Ren (壬), Zi (子), and Gui (癸). Each has specific properties — Zi is the "true north" mountain, associated with the Rat zodiac and pure water energy.
+
+          For beginners: you don't need to memorize all 24. What matters is knowing that each 15-degree sector can make a difference in Flying Star calculations. If your front door faces 157.5° but the boundary between two mountains is at 157°, your door is in a different mountain than you think.
+
+          For most home use: the 8-direction system is sufficient. The 24 Mountains matter when you're doing land selection, tomb Feng Shui, or professional-grade residential analysis.
+        facts:
+          - "The 24 Mountains system integrates the 8 Trigrams, 10 Heavenly Stems, and 12 Earthly Branches into a unified directional framework"
+
+  - slug: feng-shui-plants-guide
+    keyword: "best feng shui plants for home"
+    volume: 2900
+    title: "Best Feng Shui Plants for Your Home: 8 Plants That Actually Work (2026)"
+    description: "The 8 best Feng Shui plants for wealth, health, and relationships. Where to place each one — and the one plant you should never keep indoors."
+    target_tool: "/tools/bagua-map-overlay/"
+    tool_name: "Bagua Map Overlay"
+    tool_cta: "Map your floor plan to find exactly where each plant should go."
+    sections:
+      - heading: "Money Tree (Pachira aquatica): The Wealth Corner Essential"
+        content: |
+          The money tree is the most popular Feng Shui plant for a reason — it's hardy, it has distinctive braided trunks (symbolizing intertwined fortune), and it genuinely purifies indoor air.
+
+          Place it in the Southeast (wealth corner) of your living room or home office. The round leaves represent coins. Five leaves per stem is considered especially auspicious — if yours grows a five-leaf stem, consider yourself lucky.
+
+          Care: water once a week, indirect light, don't let it sit in standing water. A dying money tree in your wealth corner is worse than no plant at all — it literally symbolizes declining finances. If yours is struggling, move it to a recovery spot (East sector, associated with health and growth) until it's doing well again, then bring it back.
+        facts:
+          - "The money tree's association with wealth comes from a Taiwanese legend about a poor farmer who prayed for prosperity and discovered this plant growing in his field the next day"
+
+      - heading: "Jade Plant (Crassula ovata): Desk-Friendly Prosperity"
+        content: |
+          The jade plant looks like a tiny tree with thick, coin-shaped leaves. It's practically indestructible — making it perfect for people who kill every other plant they touch.
+
+          Best placement: on your desk in the wealth corner of the room (stand at the door facing in, far-left corner). The jade plant's small size makes it ideal for shelves, desks, and small spaces where a full money tree would overwhelm.
+
+          In Chinese culture, jade plants are sometimes called "money plants" or "friendship trees." They're often given as housewarming gifts with a coin tied to a branch.
+
+          Care: bright light, water only when soil is completely dry (every 2-3 weeks). Seriously — I've seen these survive a month without water. The main way people kill them is overwatering.
+        facts:
+          - "Jade plants are native to South Africa and Mozambique, not China — their Feng Shui association comes from their coin-shaped leaves, not geographic origin"
+
+      - heading: "Snake Plant (Sansevieria): The Bedroom Exception"
+        content: |
+          Normally, spiky plants are bad Feng Shui — they create "sha chi" (killing energy) with their sharp edges. The snake plant is the exception because its spikes point UP, not OUT.
+
+          Snake plants are night-time oxygen producers — they convert CO2 to oxygen while you sleep. This makes them the only plant I'd recommend for a bedroom. Place one in the far corner, away from the bed.
+
+          They're also nearly impossible to kill — I had one that survived three months in a windowless bathroom. They thrive on neglect. If you're new to plants and want one Feng Shui plant that won't die on you, this is it.
+
+          Best placement: bedroom (East corner for health), bathroom (NEVER in the wealth corner), or any room where you want air purification without the maintenance commitment.
+        facts:
+          - "NASA's Clean Air Study identified snake plants as one of the top air-purifying plants, removing benzene, formaldehyde, and trichloroethylene"
+
+      - heading: "The One Plant to NEVER Keep Indoors"
+        content: |
+          Cactus. And anything else with prominent spines or thorns.
+
+          The reason is simple: sharp objects create "sha chi" — cutting, aggressive energy. A cactus on your desk is subtly creating defensive, prickly energy around you while you work. Not ideal for collaboration or creativity.
+
+          If you love cacti (and I get it, they're cute), keep them outside. On a balcony, in a garden, on a windowsill that faces OUT — anywhere where the spines aren't pointing into your living space.
+
+          Artificial plants: neutral. They don't bring living energy, but they also don't die and become a problem. If travel a lot or have a black thumb, a high-quality artificial plant in the wealth corner is better than a dead real one. Just don't pretend it's the same thing.
+
+          Dried flowers: no. Dead plant matter in your home is the energy equivalent of keeping a corpse. Toss them. Fresh flowers are fine, but replace them the moment they start wilting.
+        facts:
+          - "In Feng Shui, sharp objects are classified as 'poison arrows' that direct cutting energy at whatever they point toward"
+
+  - slug: feng-shui-crystals-guide
+    keyword: "feng shui crystals placement guide"
+    volume: 2400
+    title: "Feng Shui Crystals Guide: Where to Place 7 Crystals for Maximum Effect"
+    description: "Complete Feng Shui crystal placement guide. Where to put citrine, rose quartz, amethyst, black tourmaline, and more — matched to your Bagua zones."
+    target_tool: "/tools/bagua-map-overlay/"
+    tool_name: "Bagua Map Overlay"
+    tool_cta: "Overlay the Bagua map on your floor plan to find the exact placement for each crystal."
+    sections:
+      - heading: "Citrine: The Wealth Crystal (Southeast)"
+        content: |
+          Citrine is called "the merchant's stone" for a reason — it's been associated with wealth and abundance for centuries. Unlike most crystals that need regular cleansing, citrine is believed to be self-cleansing. It doesn't hold negative energy.
+
+          Where to place it: Southeast wealth corner (Xun position on Bagua). A citrine cluster or point near your cash register, in your wallet, or on your desk facing the wealth direction works. Don't bury it in a drawer — citrine's gold color needs to be visible.
+
+          One thing nobody mentions: citrine quality varies massively. Natural citrine is pale yellow and relatively rare. Most "citrine" sold online is heat-treated amethyst — dark orange-brown, not the genuine article. It works the same for Feng Shui purposes (the color matters more than the geological origin), but don't pay natural citrine prices for heated amethyst.
+
+          Size doesn't matter. A 1-inch point works as well as a 6-inch cluster. Feng Shui is about intention and placement, not carat weight.
+        facts:
+          - "Natural citrine gets its color from iron impurities in quartz — most commercial citrine is amethyst heated to 470-560°C"
+
+      - heading: "Rose Quartz: The Relationship Stone (Southwest)"
+        content: |
+          Rose quartz has one job: attracting and amplifying love energy. The Southwest sector governs relationships and marriage — that's where this crystal belongs.
+
+          Important: use TWO pieces, not one. Feng Shui is big on pairs for relationship energy because it represents partnership and balance. Two small rose quartz hearts or two tumbled stones placed together in the Southwest.
+
+          If you're not looking for romantic love: rose quartz also works for self-love, family relationships, and platonic connections. Place it in the East sector (family/health) instead of Southwest.
+
+          Rose quartz in the bedroom: fine, but not on your nightstand facing the bed. The active love energy can disrupt sleep. Place it on a dresser or shelf instead.
+
+          What it won't do: make your ex come back. I know someone will ask. It won't. Move on.
+        facts:
+          - "Rose quartz gets its pink color from trace amounts of titanium, iron, or manganese"
+
+      - heading: "Amethyst: Calm and Clarity (Northeast)"
+        content: |
+          Amethyst is the spiritual growth and wisdom crystal. Purple = spiritual awareness in Feng Shui, and the Northeast sector governs knowledge and self-cultivation.
+
+          Best placement: Northeast knowledge corner, meditation space, or home office (for focus and clear thinking). A small amethyst cluster on your desk helps with mental clarity during focused work.
+
+          Also good: near electronics. Amethyst is believed to neutralize electromagnetic stress. Place a small piece near your wifi router, computer, or TV. Is this scientifically verifiable? No. Does it make people feel better about their screen time? Yes. Sometimes that's enough.
+
+          Avoid: amethyst in the bedroom — the spiritual energy can be too stimulating for sleep. Carrying a small piece in your pocket during stressful situations (job interviews, difficult conversations) is a practical application.
+        facts:
+          - "The name amethyst comes from the Greek 'amethystos' meaning 'not intoxicated' — ancient Greeks believed it prevented drunkenness"
+
+  - slug: feng-shui-front-door-colors
+    keyword: "feng shui front door colors meaning"
+    volume: 3200
+    title: "Feng Shui Front Door Color Guide: What Your Door Color Says About Your Home"
+    description: "What each front door color means in Feng Shui. Best colors by door direction, what to avoid, and 5 colors that welcome prosperity."
+    target_tool: "/tools/flying-star-chart/"
+    tool_name: "Flying Star Chart"
+    tool_cta: "Check your 2026 Flying Stars before choosing a door color."
+    sections:
+      - heading: "Red Door: The Most Popular (and Most Misunderstood)"
+        content: |
+          A red front door is probably the most famous Feng Shui recommendation. It represents fire element, warmth, and welcoming energy. In Chinese culture, red doors were historically reserved for temples and high-ranking officials.
+
+          But red only works well if your door faces South (fire's natural direction) or Southwest (earth, which is fed by fire). If your door faces North (water), a red door creates a clashing energy — fire and water fighting at your entrance.
+
+          If you want red without painting: a red doormat, red flowers by the door, or a red lantern hanging near the entrance gives you the fire energy without the commitment.
+
+          Red doors also attract attention — which is part of the point. A red door says "this home is alive and welcoming." Just make sure it matches both your Feng Shui direction and your HOA rules.
+        facts:
+          - "In Ming Dynasty China, only the emperor's family could use red on the outermost doors — commoners used black or natural wood"
+
+      - heading: "Black Door: Elegant and Underrated"
+        content: |
+          A black front door represents the water element — depth, wisdom, career energy. It's excellent if your door faces North (water's home direction), East (water feeds wood), or Southeast (water feeds wood in the wealth zone).
+
+          Black is actually one of the most versatile door colors in Feng Shui because water supports two of the five elements (wood and metal) without directly clashing. A black door is safe for most directions except South (fire — water extinguishes fire).
+
+          Practical bonus: black doors hide dirt, look sophisticated, and never go out of style. If you're unsure what color to paint your door, black is the safest choice.
+        facts:
+          - "Black was the most common door color in ancient Chinese residential architecture — it was associated with the water element's protective qualities"
+
+      - heading: "Green Door: Growth and New Beginnings"
+        content: |
+          A green front door represents the wood element — growth, health, and new opportunities. It's ideal if your door faces East (wood's home direction) or Southeast (wealth — wood amplifies abundance).
+
+          Green is an especially good choice if you're starting something new — a business, a career change, a family. The front door is where energy enters, and green says "growth energy welcome here."
+
+          Avoid: green doors facing Southwest or Northeast (earth directions — wood controls earth). And sage green vs. forest green both work — shade matters less than the element.
+        facts:
+          - "In Five Element theory, green corresponds to the Wood element, the season of spring, and the direction East"
